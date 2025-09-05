@@ -1,0 +1,86 @@
+[
+  {
+    "title": "راکت",
+    "url": "https://roocket.ir",
+    "description": "آموزش برنامه‌نویسی، طراحی وب و توسعه اپلیکیشن‌های مدرن",
+    "favicon": "https://roocket.ir/favicon.ico"
+  },
+  {
+    "title": "دیجی‌کالا",
+    "url": "https://digikala.com",
+    "description": "بزرگ‌ترین فروشگاه آنلاین ایران برای خرید لوازم دیجیتال، پوشاک و بیشتر",
+    "favicon": "https://digikala.com/favicon.ico"
+  },
+  {
+    "title": "متمم",
+    "url": "https://motamem.org",
+    "description": "محتوای آموزشی در حوزه مدیریت، توسعه فردی و کسب‌وکار",
+    "favicon": "https://motamem.org/favicon.ico"
+  },
+  {
+    "title": "زومیت",
+    "url": "https://zoomit.ir",
+    "description": "تحلیل و اخبار تکنولوژی، نقد و بررسی گجت‌ها و مقالات فناوری",
+    "favicon": "https://zoomit.ir/favicon.ico"
+  },
+  {
+    "title": "فرانش",
+    "url": "https://faranesh.com",
+    "description": "آموزش آنلاین در زمینه طراحی، برنامه‌نویسی، بازاریابی و مهارت‌های دیجیتال",
+    "favicon": "https://faranesh.com/favicon.ico"
+  },
+  {
+    "title": "نوار",
+    "url": "https://www.navaar.ir",
+    "description": "فروشگاه آنلاین کتاب‌های صوتی فارسی با صدای حرفه‌ای",
+    "favicon": "https://www.navaar.ir/favicon.ico"
+  },
+  {
+    "title": "چطور",
+    "url": "https://www.chetor.com",
+    "description": "مقالات روانشناسی، موفقیت، کسب‌وکار، سبک زندگی و توسعه فردی",
+    "favicon": "https://www.chetor.com/favicon.ico"
+  },
+  {
+    "title": "پونیشا",
+    "url": "https://ponisha.ir",
+    "description": "بازار کار فریلنسری برای پروژه‌های گرافیک، برنامه‌نویسی، تولید محتوا و بیشتر",
+    "favicon": "https://ponisha.ir/favicon.ico"
+  },
+  {
+    "title": "فرادرس",
+    "url": "https://faradars.org",
+    "description": "بزرگ‌ترین پلتفرم آموزش ویدئویی ایران در حوزه مهندسی، علوم پایه، نرم‌افزار و کسب‌وکار",
+    "favicon": "https://faradars.org/favicon.ico"
+  },
+  {
+    "title": "تخفیفان",
+    "url": "https://takhfifan.com",
+    "description": "خرید انواع خدمات و محصولات با تخفیف‌های ویژه در شهرهای مختلف",
+    "favicon": "https://takhfifan.com/favicon.ico"
+  },
+  {
+    "title": "دیوار",
+    "url": "https://divar.ir",
+    "description": "سایت آگهی خرید و فروش کالاهای نو و دست‌دوم و خدمات محلی در سراسر ایران",
+    "favicon": "https://divar.ir/favicon.ico"
+  },
+  {
+    "title": "زنگ تفریح",
+    "url": "https://beytoote.com",
+    "description": "مقالات سرگرمی، دانستنی‌ها، سلامت، تکنولوژی، آشپزی و بیشتر",
+    "favicon": "https://beytoote.com/favicon.ico"
+  },
+  {
+    "title": "زنجیره",
+    "url": "https://zoomg.ir",
+    "description": "اخبار و نقد بازی‌های ویدیویی، فیلم و سریال در ایران و جهان",
+    "favicon": "https://zoomg.ir/favicon.ico"
+  },
+  {
+    "title": "آی‌تی‌رسان",
+    "url": "https://itresan.com",
+    "description": "آخرین اخبار دنیای فناوری، آموزش‌ها و بررسی تخصصی موبایل و گجت",
+    "favicon": "https://itresan.com/favicon.ico"
+  }
+]

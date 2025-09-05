@@ -1,0 +1,2510 @@
+{
+    "programming": [
+        {
+            "title": "Stack Overflow",
+            "description": "پرسش و پاسخ برای برنامه‌نویسان در همه زبان‌ها",
+            "favicon": "https:\/\/stackoverflow.com\/favicon.ico",
+            "url": "https:\/\/stackoverflow.com"
+        },
+        {
+            "title": "GitHub",
+            "description": "میزبانی و همکاری روی کدهای منبع",
+            "favicon": "https:\/\/github.com\/favicon.ico",
+            "url": "https:\/\/github.com"
+        },
+        {
+            "title": "W3Schools",
+            "description": "آموزش HTML، CSS، JavaScript و بیشتر",
+            "favicon": "https:\/\/www.w3schools.com\/favicon.ico",
+            "url": "https:\/\/www.w3schools.com"
+        },
+        {
+            "title": "Codecademy",
+            "description": "آموزش تعاملی برنامه‌نویسی از پایه تا پیشرفته",
+            "favicon": "https:\/\/www.codecademy.com\/favicon.ico",
+            "url": "https:\/\/www.codecademy.com"
+        },
+        {
+            "title": "FreeCodeCamp",
+            "description": "دوره‌های رایگان برنامه‌نویسی و پروژه‌های واقعی",
+            "favicon": "https:\/\/www.freecodecamp.org\/favicon.ico",
+            "url": "https:\/\/www.freecodecamp.org"
+        }
+    ],
+    "ai": [
+        {
+            "title": "Hugging Face",
+            "description": "مدل‌های هوش مصنوعی و NLP",
+            "favicon": "https:\/\/huggingface.co\/favicon.ico",
+            "url": "https:\/\/huggingface.co"
+        },
+        {
+            "title": "Google AI",
+            "description": "تحقیقات و پروژه‌های هوش مصنوعی گوگل",
+            "favicon": "https:\/\/ai.google\/favicon.ico",
+            "url": "https:\/\/ai.google"
+        },
+        {
+            "title": "OpenAI",
+            "description": "پیشرو در توسعه مدل‌های زبانی هوشمند",
+            "favicon": "https:\/\/openai.com\/favicon.ico",
+            "url": "https:\/\/openai.com"
+        },
+        {
+            "title": "Runway ML",
+            "description": "ابزارهای ویدیویی مبتنی بر هوش مصنوعی",
+            "favicon": "https:\/\/runwayml.com\/favicon.ico",
+            "url": "https:\/\/runwayml.com"
+        },
+        {
+            "title": "Perplexity AI",
+            "description": "جستجوی پاسخ‌محور مبتنی بر AI",
+            "favicon": "https:\/\/www.perplexity.ai\/favicon.ico",
+            "url": "https:\/\/www.perplexity.ai"
+        }
+    ],
+    "web-development": [
+        {
+            "title": "MDN Web Docs",
+            "description": "مستندات جامع توسعه وب از موزیلا",
+            "favicon": "https:\/\/developer.mozilla.org\/favicon.ico",
+            "url": "https:\/\/developer.mozilla.org"
+        },
+        {
+            "title": "CSS-Tricks",
+            "description": "ترفندها و آموزش‌های CSS و طراحی وب",
+            "favicon": "https:\/\/css-tricks.com\/favicon.ico",
+            "url": "https:\/\/css-tricks.com"
+        },
+        {
+            "title": "Smashing Magazine",
+            "description": "مقالات تخصصی طراحی و توسعه وب",
+            "favicon": "https:\/\/www.smashingmagazine.com\/favicon.ico",
+            "url": "https:\/\/www.smashingmagazine.com"
+        },
+        {
+            "title": "Frontend Mentor",
+            "description": "تمرین طراحی فرانت‌اند با پروژه واقعی",
+            "favicon": "https:\/\/www.frontendmentor.io\/favicon.ico",
+            "url": "https:\/\/www.frontendmentor.io"
+        },
+        {
+            "title": "Netlify",
+            "description": "میزبانی و CI\/CD برای پروژه‌های JAMstack",
+            "favicon": "https:\/\/www.netlify.com\/favicon.ico",
+            "url": "https:\/\/www.netlify.com"
+        }
+    ],
+    "painting": [
+        {
+            "title": "Iranian Painting Gallery",
+            "description": "مرجعی برای آثار هنری نقاشی مدرن و کلاسیک ایرانی.",
+            "favicon": "https:\/\/painting.ir\/favicon.ico",
+            "url": "https:\/\/painting.ir"
+        },
+        {
+            "title": "Behzad Art",
+            "description": "نمایشگاه آثار مینیاتور و نقاشی ایرانی با سبک سنتی.",
+            "favicon": "https:\/\/behzadart.com\/favicon.ico",
+            "url": "https:\/\/behzadart.com"
+        },
+        {
+            "title": "Artmajeur",
+            "description": "فروشگاه آثار نقاشی از هنرمندان بین‌المللی.",
+            "favicon": "https:\/\/www.artmajeur.com\/favicon.ico",
+            "url": "https:\/\/www.artmajeur.com"
+        },
+        {
+            "title": "Saatchi Art",
+            "description": "فروش آنلاین آثار نقاشی مدرن و معاصر.",
+            "favicon": "https:\/\/www.saatchiart.com\/favicon.ico",
+            "url": "https:\/\/www.saatchiart.com"
+        },
+        {
+            "title": "DeviantArt",
+            "description": "پلتفرم هنری بزرگ برای نقاشان دیجیتال و سنتی.",
+            "favicon": "https:\/\/www.deviantart.com\/favicon.ico",
+            "url": "https:\/\/www.deviantart.com"
+        }
+    ],
+    "graphic-design": [
+        {
+            "title": "Dribbble",
+            "description": "شبکه‌ای برای طراحان گرافیک جهت به اشتراک‌گذاری نمونه کارها.",
+            "favicon": "https:\/\/dribbble.com\/favicon.ico",
+            "url": "https:\/\/dribbble.com"
+        },
+        {
+            "title": "Behance",
+            "description": "نمونه‌کارهای حرفه‌ای طراحی گرافیک، UI و برندینگ.",
+            "favicon": "https:\/\/www.behance.net\/favicon.ico",
+            "url": "https:\/\/www.behance.net"
+        },
+        {
+            "title": "Canva",
+            "description": "ابزاری ساده و حرفه‌ای برای طراحی گرافیک آنلاین.",
+            "favicon": "https:\/\/www.canva.com\/favicon.ico",
+            "url": "https:\/\/www.canva.com"
+        },
+        {
+            "title": "Figma Community",
+            "description": "ابزار همکاری در طراحی UI\/UX به همراه پروژه‌های آماده.",
+            "favicon": "https:\/\/www.figma.com\/favicon.ico",
+            "url": "https:\/\/www.figma.com\/community"
+        },
+        {
+            "title": "Freepik",
+            "description": "منبع فایل‌های گرافیکی، آیکون‌ها و تصاویر برداری رایگان.",
+            "favicon": "https:\/\/www.freepik.com\/favicon.ico",
+            "url": "https:\/\/www.freepik.com"
+        }
+    ],
+    "music": [
+        {
+            "title": "Spotify",
+            "description": "پلتفرم بزرگ پخش موسیقی با آرشیو جهانی.",
+            "favicon": "https:\/\/www.spotify.com\/favicon.ico",
+            "url": "https:\/\/www.spotify.com"
+        },
+        {
+            "title": "Radio Javan",
+            "description": "آهنگ‌ها و موزیک‌ویدئوهای ایرانی به‌روز.",
+            "favicon": "https:\/\/www.radiojavan.com\/favicon.ico",
+            "url": "https:\/\/www.radiojavan.com"
+        },
+        {
+            "title": "SoundCloud",
+            "description": "پلتفرمی برای هنرمندان مستقل برای اشتراک‌گذاری موسیقی.",
+            "favicon": "https:\/\/soundcloud.com\/favicon.ico",
+            "url": "https:\/\/soundcloud.com"
+        },
+        {
+            "title": "Melovaz",
+            "description": "دانلود موزیک‌های جدید ایرانی و خارجی.",
+            "favicon": "https:\/\/melovaz.net\/favicon.ico",
+            "url": "https:\/\/melovaz.net"
+        },
+        {
+            "title": "Tidal",
+            "description": "پلتفرم پخش موسیقی با کیفیت بالا برای علاقه‌مندان جدی موسیقی.",
+            "favicon": "https:\/\/tidal.com\/favicon.ico",
+            "url": "https:\/\/tidal.com"
+        },
+        {
+            "title": "دانلود وان موزیک",
+            "description": "سایت دانلود موسیقی های مجاز",
+            "favicon": "https:\/\/download1music.ir\/favicon.ico",
+            "url": "https:\/\/download1music.ir\/"
+        }
+    ],
+    "photography": [
+        {
+            "title": "500px",
+            "description": "پلتفرم حرفه‌ای به اشتراک‌گذاری عکس‌ها و نمونه کارهای عکاسی.",
+            "favicon": "https:\/\/500px.com\/favicon.ico",
+            "url": "https:\/\/500px.com"
+        },
+        {
+            "title": "Unsplash",
+            "description": "منبع تصاویر عکاسی با کیفیت بالا و رایگان.",
+            "favicon": "https:\/\/unsplash.com\/favicon.ico",
+            "url": "https:\/\/unsplash.com"
+        },
+        {
+            "title": "Flickr",
+            "description": "پایگاه داده تصاویر حرفه‌ای برای عکاسان و هنرمندان.",
+            "favicon": "https:\/\/www.flickr.com\/favicon.ico",
+            "url": "https:\/\/www.flickr.com"
+        },
+        {
+            "title": "Pixabay",
+            "description": "تصاویر عکاسی رایگان برای استفاده تجاری و شخصی.",
+            "favicon": "https:\/\/pixabay.com\/favicon.ico",
+            "url": "https:\/\/pixabay.com"
+        },
+        {
+            "title": "Shotkit",
+            "description": "معرفی تجهیزات عکاسی حرفه‌ای و آموزش‌های عکاسی.",
+            "favicon": "https:\/\/shotkit.com\/favicon.ico",
+            "url": "https:\/\/shotkit.com"
+        }
+    ],
+    "cinema": [
+        {
+            "title": "IMDB",
+            "description": "مرجع اطلاعات فیلم‌ها، سریال‌ها، بازیگران و نقد و بررسی.",
+            "favicon": "https:\/\/www.imdb.com\/favicon.ico",
+            "url": "https:\/\/www.imdb.com"
+        },
+        {
+            "title": "Film2Movie",
+            "description": "سایت دانلود و معرفی فیلم‌های جدید دوبله و زبان اصلی.",
+            "favicon": "https:\/\/www.film2movie.asia\/favicon.ico",
+            "url": "https:\/\/www.film2movie.asia"
+        },
+        {
+            "title": "Filmnet",
+            "description": "پلتفرم ایرانی برای تماشای آنلاین فیلم و سریال.",
+            "favicon": "https:\/\/filmnet.ir\/favicon.ico",
+            "url": "https:\/\/filmnet.ir"
+        },
+        {
+            "title": "Cinematicket",
+            "description": "سامانه خرید بلیت سینماهای ایران با نقد فیلم‌ها.",
+            "favicon": "https:\/\/cinematicket.org\/favicon.ico",
+            "url": "https:\/\/cinematicket.org"
+        },
+        {
+            "title": "Rotten Tomatoes",
+            "description": "ارائه امتیازات و نقدهای حرفه‌ای فیلم‌ها و سریال‌ها.",
+            "favicon": "https:\/\/www.rottentomatoes.com\/favicon.ico",
+            "url": "https:\/\/www.rottentomatoes.com"
+        }
+    ],
+    "fashion": [
+        {
+            "title": "Zara",
+            "description": "فروشگاه رسمی برند زارا با محصولات جدید و شیک.",
+            "favicon": "https:\/\/www.zara.com\/favicon.ico",
+            "url": "https:\/\/www.zara.com"
+        },
+        {
+            "title": "Modiseh",
+            "description": "فروشگاه اینترنتی پوشاک و برندهای مد روز ایرانی و خارجی.",
+            "favicon": "https:\/\/www.modiseh.com\/favicon.ico",
+            "url": "https:\/\/www.modiseh.com"
+        },
+        {
+            "title": "Asos",
+            "description": "برند انگلیسی با پوشاک متنوع و طراحی مدرن.",
+            "favicon": "https:\/\/www.asos.com\/favicon.ico",
+            "url": "https:\/\/www.asos.com"
+        },
+        {
+            "title": "Farfetch",
+            "description": "خرید لباس برندهای لوکس بین‌المللی از سراسر دنیا.",
+            "favicon": "https:\/\/www.farfetch.com\/favicon.ico",
+            "url": "https:\/\/www.farfetch.com"
+        },
+        {
+            "title": "Digistyle",
+            "description": "بازار پوشاک دیجیکالا با برندهای ایرانی و خارجی.",
+            "favicon": "https:\/\/www.digistyle.com\/favicon.ico",
+            "url": "https:\/\/www.digistyle.com"
+        }
+    ],
+    "decor": [
+        {
+            "title": "Houzz",
+            "description": "مرجع دکوراسیون داخلی و طراحی منزل با تصاویر و ایده‌های بی‌نظیر.",
+            "favicon": "https:\/\/www.houzz.com\/favicon.ico",
+            "url": "https:\/\/www.houzz.com"
+        },
+        {
+            "title": "Chidaneh",
+            "description": "مجله معماری و دکوراسیون داخلی با نمونه پروژه‌های ایرانی.",
+            "favicon": "https:\/\/www.chidaneh.com\/favicon.ico",
+            "url": "https:\/\/www.chidaneh.com"
+        },
+        {
+            "title": "Wayfair",
+            "description": "خرید آنلاین لوازم دکوراسیون و مبلمان خانگی.",
+            "favicon": "https:\/\/www.wayfair.com\/favicon.ico",
+            "url": "https:\/\/www.wayfair.com"
+        },
+        {
+            "title": "IKEA",
+            "description": "فروشگاه جهانی طراحی و دکوراسیون با قیمت مناسب.",
+            "favicon": "https:\/\/www.ikea.com\/favicon.ico",
+            "url": "https:\/\/www.ikea.com"
+        },
+        {
+            "title": "SepidHouse",
+            "description": "فروشگاه اینترنتی محصولات دکوراسیون مینیمال و مدرن ایرانی.",
+            "favicon": "https:\/\/sepidhouse.ir\/favicon.ico",
+            "url": "https:\/\/sepidhouse.ir"
+        }
+    ],
+    "travel": [
+        {
+            "title": "لست سکند",
+            "description": "راهنمای سفر، تورها، نقد و بررسی هتل‌ها و مقاصد گردشگری.",
+            "favicon": "https:\/\/lastsecond.ir\/favicon.ico",
+            "url": "https:\/\/lastsecond.ir"
+        },
+        {
+            "title": "تریپ",
+            "description": "رزرو پرواز، هتل و راهنمای سفرهای خارجی.",
+            "favicon": "https:\/\/www.trip.ir\/favicon.ico",
+            "url": "https:\/\/www.trip.ir"
+        },
+        {
+            "title": "Booking.com",
+            "description": "رزرو آنلاین هتل، ویلا و اقامتگاه در سراسر جهان.",
+            "favicon": "https:\/\/www.booking.com\/favicon.ico",
+            "url": "https:\/\/www.booking.com"
+        },
+        {
+            "title": "AliBaba",
+            "description": "سامانه ایرانی خرید بلیط هواپیما، قطار، اتوبوس و رزرو هتل.",
+            "favicon": "https:\/\/www.alibaba.ir\/favicon.ico",
+            "url": "https:\/\/www.alibaba.ir"
+        },
+        {
+            "title": "Lonely Planet",
+            "description": "راهنمای سفرهای ماجراجویانه با اطلاعات مفصل درباره کشورها.",
+            "favicon": "https:\/\/www.lonelyplanet.com\/favicon.ico",
+            "url": "https:\/\/www.lonelyplanet.com"
+        }
+    ],
+    "relationships": [
+        {
+            "title": "Psychology Today - Relationships",
+            "description": "مقالات تخصصی روانشناسی درباره روابط عاطفی، زوج‌درمانی و تعارض‌ها.",
+            "favicon": "https:\/\/www.psychologytoday.com\/favicon.ico",
+            "url": "https:\/\/www.psychologytoday.com\/us\/topics\/relationships"
+        },
+        {
+            "title": "Verywell Mind",
+            "description": "راهنمایی‌های کاربردی برای بهبود روابط خانوادگی و عاشقانه.",
+            "favicon": "https:\/\/www.verywellmind.com\/favicon.ico",
+            "url": "https:\/\/www.verywellmind.com"
+        },
+        {
+            "title": "بیشتر از یک نفر",
+            "description": "مقالات مهارت‌های ارتباطی و توسعه فردی در روابط اجتماعی.",
+            "favicon": "https:\/\/www.bishtarazyek.com\/favicon.ico",
+            "url": "https:\/\/www.bishtarazyek.com"
+        },
+        {
+            "title": "مجله سپیده‌ دانایی",
+            "description": "مطالب فارسی روانشناسی با تمرکز بر روابط بین فردی.",
+            "favicon": "https:\/\/www.sepidedanaei.com\/favicon.ico",
+            "url": "https:\/\/www.sepidedanaei.com"
+        },
+        {
+            "title": "Mark Manson",
+            "description": "نویسنده مشهور با مقالاتی عمیق درباره روابط انسانی و سبک زندگی.",
+            "favicon": "https:\/\/markmanson.net\/favicon.ico",
+            "url": "https:\/\/markmanson.net"
+        }
+    ],
+    "family": [
+        {
+            "title": "Parenting.com",
+            "description": "راهنمای کامل تربیت فرزند، بارداری و خانواده‌داری.",
+            "favicon": "https:\/\/www.parenting.com\/favicon.ico",
+            "url": "https:\/\/www.parenting.com"
+        },
+        {
+            "title": "KoodakPress",
+            "description": "پایگاه فارسی اطلاعات و آموزش‌های فرزندپروری.",
+            "favicon": "https:\/\/koodakpress.ir\/favicon.ico",
+            "url": "https:\/\/koodakpress.ir"
+        },
+        {
+            "title": "FamilyEducation",
+            "description": "منبع انگلیسی درباره رشد کودک، تربیت و روابط خانوادگی.",
+            "favicon": "https:\/\/www.familyeducation.com\/favicon.ico",
+            "url": "https:\/\/www.familyeducation.com"
+        },
+        {
+            "title": "نمناک - سبک زندگی",
+            "description": "مطالب آموزنده درباره والدگری، تربیت و زندگی خانوادگی.",
+            "favicon": "https:\/\/namnak.com\/favicon.ico",
+            "url": "https:\/\/namnak.com"
+        },
+        {
+            "title": "BabyCenter",
+            "description": "مرجع انگلیسی مراقبت از کودک و مشاوره بارداری.",
+            "favicon": "https:\/\/www.babycenter.com\/favicon.ico",
+            "url": "https:\/\/www.babycenter.com"
+        }
+    ],
+    "stock-market": [
+        {
+            "title": "Tsetmc",
+            "description": "سامانه رسمی بورس اوراق بهادار تهران.",
+            "favicon": "https:\/\/www.tsetmc.com\/favicon.ico",
+            "url": "https:\/\/www.tsetmc.com"
+        },
+        {
+            "title": "Rahavard365",
+            "description": "نمودارهای تحلیل تکنیکال و اخبار بازار سرمایه.",
+            "favicon": "https:\/\/rahavard365.com\/favicon.ico",
+            "url": "https:\/\/rahavard365.com"
+        },
+        {
+            "title": "BoursePress",
+            "description": "خبرگزاری رسمی بورس و تحلیل‌های تخصصی بازار.",
+            "favicon": "https:\/\/boursepress.ir\/favicon.ico",
+            "url": "https:\/\/boursepress.ir"
+        },
+        {
+            "title": "بورس نیوز",
+            "description": "خبرهای به‌روز بازار سرمایه و مصاحبه با فعالان بازار.",
+            "favicon": "https:\/\/boursenews.ir\/favicon.ico",
+            "url": "https:\/\/boursenews.ir"
+        },
+        {
+            "title": "سایت همفکران",
+            "description": "تحلیل بنیادی و تکنیکال بورس و آموزش سرمایه‌گذاری.",
+            "favicon": "https:\/\/www.hamfekran.com\/favicon.ico",
+            "url": "https:\/\/www.hamfekran.com"
+        }
+    ],
+    "cryptocurrency": [
+        {
+            "title": "CoinMarketCap",
+            "description": "مرجع رتبه‌بندی و قیمت لحظه‌ای ارزهای دیجیتال.",
+            "favicon": "https:\/\/coinmarketcap.com\/favicon.ico",
+            "url": "https:\/\/coinmarketcap.com"
+        },
+        {
+            "title": "Nobitex",
+            "description": "بازار معاملاتی رمزارز ایرانی با قیمت‌های لحظه‌ای.",
+            "favicon": "https:\/\/nobitex.ir\/favicon.ico",
+            "url": "https:\/\/nobitex.ir"
+        },
+        {
+            "title": "Binance",
+            "description": "بزرگترین صرافی ارز دیجیتال در جهان.",
+            "favicon": "https:\/\/www.binance.com\/favicon.ico",
+            "url": "https:\/\/www.binance.com"
+        },
+        {
+            "title": "CryptoPotato",
+            "description": "اخبار، تحلیل‌ها و راهنمایی‌های حوزه رمزارزها.",
+            "favicon": "https:\/\/cryptopotato.com\/favicon.ico",
+            "url": "https:\/\/cryptopotato.com"
+        },
+        {
+            "title": "CoinDesk",
+            "description": "تحلیل‌ها و گزارش‌های جامع درباره بلاکچین و رمزارزها.",
+            "favicon": "https:\/\/www.coindesk.com\/favicon.ico",
+            "url": "https:\/\/www.coindesk.com"
+        }
+    ],
+    "banking": [
+        {
+            "title": "بانک ملت",
+            "description": "درگاه رسمی بانک ملت با خدمات اینترنتی و همراه‌بانک.",
+            "favicon": "https:\/\/bankmellat.ir\/favicon.ico",
+            "url": "https:\/\/bankmellat.ir"
+        },
+        {
+            "title": "بانک ملی",
+            "description": "درگاه رسمی بانک ملی با خدمات جامع مالی و اپلیکیشن بام.",
+            "favicon": "https:\/\/bmi.ir\/favicon.ico",
+            "url": "https:\/\/bmi.ir"
+        },
+        {
+            "title": "بانک پاسارگاد",
+            "description": "سامانه بانکداری اینترنتی بانک پاسارگاد.",
+            "favicon": "https:\/\/bpi.ir\/favicon.ico",
+            "url": "https:\/\/bpi.ir"
+        },
+        {
+            "title": "بانک آینده",
+            "description": "پلتفرم بانکداری نوین با اپلیکیشن همراه‌کارت آینده.",
+            "favicon": "https:\/\/ba24.ir\/favicon.ico",
+            "url": "https:\/\/ba24.ir"
+        },
+        {
+            "title": "بانک سامان",
+            "description": "خدمات بانکداری الکترونیکی بانک سامان.",
+            "favicon": "https:\/\/sb24.com\/favicon.ico",
+            "url": "https:\/\/sb24.com"
+        },
+        {
+            "title": "sadasd",
+            "description": "asdasd",
+            "favicon": "https:\/\/daghighabzar.com\/favicon.ico",
+            "url": "https:\/\/daghighabzar.com"
+        }
+    ],
+    "loans": [
+        {
+            "title": "وام چی",
+            "description": "اطلاعات کامل درباره وام‌های بانکی و تسهیلات با مقایسه نرخ سود.",
+            "favicon": "https:\/\/vamchi.com\/favicon.ico",
+            "url": "https:\/\/vamchi.com"
+        },
+        {
+            "title": "رادین وام",
+            "description": "مشاوره تخصصی و دریافت وام در سریع‌ترین زمان.",
+            "favicon": "https:\/\/radenvam.com\/favicon.ico",
+            "url": "https:\/\/radenvam.com"
+        },
+        {
+            "title": "وام فوری",
+            "description": "دریافت وام شخصی و سازمانی با حداقل مدارک.",
+            "favicon": "https:\/\/vamfori.ir\/favicon.ico",
+            "url": "https:\/\/vamfori.ir"
+        },
+        {
+            "title": "سنجینه",
+            "description": "بررسی رتبه اعتباری و انتخاب بهترین وام متناسب با شرایط شما.",
+            "favicon": "https:\/\/sanjineh.com\/favicon.ico",
+            "url": "https:\/\/sanjineh.com"
+        },
+        {
+            "title": "وام چیستا",
+            "description": "مرجع معرفی وام‌های بانکی و غیر بانکی در ایران.",
+            "favicon": "https:\/\/vamchista.ir\/favicon.ico",
+            "url": "https:\/\/vamchista.ir"
+        }
+    ],
+    "financial-planning": [
+        {
+            "title": "Investopedia",
+            "description": "مفاهیم مالی، سرمایه‌گذاری و برنامه‌ریزی مالی شخصی.",
+            "favicon": "https:\/\/www.investopedia.com\/favicon.ico",
+            "url": "https:\/\/www.investopedia.com"
+        },
+        {
+            "title": "Mint",
+            "description": "نرم‌افزار مدیریت هزینه‌های شخصی و بودجه‌بندی.",
+            "favicon": "https:\/\/mint.intuit.com\/favicon.ico",
+            "url": "https:\/\/mint.intuit.com"
+        },
+        {
+            "title": "BudgetBakers",
+            "description": "اپلیکیشن مدیریت مالی با امکان پیگیری هزینه‌ها و پس‌انداز.",
+            "favicon": "https:\/\/budgetbakers.com\/favicon.ico",
+            "url": "https:\/\/budgetbakers.com"
+        },
+        {
+            "title": "نوبانو",
+            "description": "مجله مالی و اقتصادی برای خانواده‌ها و بانوان.",
+            "favicon": "https:\/\/nobanoo.com\/favicon.ico",
+            "url": "https:\/\/nobanoo.com"
+        },
+        {
+            "title": "MoneyGeek",
+            "description": "راهنمای مالی جامع برای پس‌انداز، سرمایه‌گذاری و بیمه.",
+            "favicon": "https:\/\/www.moneygeek.com\/favicon.ico",
+            "url": "https:\/\/www.moneygeek.com"
+        }
+    ],
+    "legal-advice": [
+        {
+            "title": "قانون آنلاین",
+            "description": "پایگاه تخصصی حقوق با دسترسی به قوانین، آیین‌نامه‌ها و تحلیل‌های حقوقی.",
+            "favicon": "https:\/\/www.ghanoononline.ir\/favicon.ico",
+            "url": "https:\/\/www.ghanoononline.ir"
+        },
+        {
+            "title": "وبسایت وکالت آنلاین",
+            "description": "اطلاعات حقوقی، قراردادها و مشاوره رایگان حقوقی برای عموم.",
+            "favicon": "https:\/\/www.vekalatonline.ir\/favicon.ico",
+            "url": "https:\/\/www.vekalatonline.ir"
+        },
+        {
+            "title": "Law.com",
+            "description": "اخبار و تحلیل‌های تخصصی در زمینه حقوق و عدالت در آمریکا.",
+            "favicon": "https:\/\/www.law.com\/favicon.ico",
+            "url": "https:\/\/www.law.com"
+        },
+        {
+            "title": "دیوان عدالت اداری",
+            "description": "دسترسی به آراء، بخشنامه‌ها و اطلاعات حقوقی رسمی.",
+            "favicon": "https:\/\/divan-edalat.ir\/favicon.ico",
+            "url": "https:\/\/divan-edalat.ir"
+        },
+        {
+            "title": "پایگاه اطلاع‌رسانی قوانین و مقررات",
+            "description": "مرجع رسمی قوانین جمهوری اسلامی ایران.",
+            "favicon": "https:\/\/qavanin.ir\/favicon.ico",
+            "url": "https:\/\/qavanin.ir"
+        }
+    ],
+    "kids": [
+        {
+            "title": "koodakoo",
+            "description": "مرجع بازی، کتاب، اسباب‌بازی و سرگرمی کودکانه.",
+            "favicon": "https:\/\/www.koodakoo.com\/favicon.ico",
+            "url": "https:\/\/www.koodakoo.com"
+        },
+        {
+            "title": "کودک آموز",
+            "description": "آموزش و سرگرمی برای کودکان به زبان ساده.",
+            "favicon": "https:\/\/koodakamooz.ir\/favicon.ico",
+            "url": "https:\/\/koodakamooz.ir"
+        },
+        {
+            "title": "PBS Kids",
+            "description": "سایت رسمی PBS برای بازی، کارتون و آموزش کودکان.",
+            "favicon": "https:\/\/pbskids.org\/favicon.ico",
+            "url": "https:\/\/pbskids.org"
+        },
+        {
+            "title": "Nick Jr.",
+            "description": "بازی‌ها، ویدیوها و محتوای آموزشی از شخصیت‌های محبوب کودکان.",
+            "favicon": "https:\/\/www.nickjr.com\/favicon.ico",
+            "url": "https:\/\/www.nickjr.com"
+        },
+        {
+            "title": "کانون پرورش فکری",
+            "description": "برنامه‌ها، کتاب‌ها و فعالیت‌های فرهنگی برای کودکان و نوجوانان.",
+            "favicon": "https:\/\/kpf.ir\/favicon.ico",
+            "url": "https:\/\/kpf.ir"
+        }
+    ],
+    "religion": [
+        {
+            "title": "اسلام کوئست",
+            "description": "پایگاه پرسش و پاسخ دینی و مقالات اسلامی.",
+            "favicon": "https:\/\/www.islamquest.net\/favicon.ico",
+            "url": "https:\/\/www.islamquest.net"
+        },
+        {
+            "title": "مبنا",
+            "description": "پایگاه معارف اسلامی با موضوعات فقهی، قرآنی و عقیدتی.",
+            "favicon": "https:\/\/maaref.makarem.ir\/favicon.ico",
+            "url": "https:\/\/maaref.makarem.ir"
+        },
+        {
+            "title": "حوزه‌نیوز",
+            "description": "پایگاه رسمی اطلاع‌رسانی حوزه‌های علمیه.",
+            "favicon": "https:\/\/hawzahnews.com\/favicon.ico",
+            "url": "https:\/\/hawzahnews.com"
+        },
+        {
+            "title": "BibleGateway",
+            "description": "پایگاه مطالعه آنلاین کتاب مقدس به زبان‌های مختلف.",
+            "favicon": "https:\/\/www.biblegateway.com\/favicon.ico",
+            "url": "https:\/\/www.biblegateway.com"
+        },
+        {
+            "title": "Chabad.org",
+            "description": "سایت یهودیت ارتودوکس با محتوای آموزشی، فلسفی و دینی.",
+            "favicon": "https:\/\/www.chabad.org\/favicon.ico",
+            "url": "https:\/\/www.chabad.org"
+        }
+    ],
+    "jobs": [
+        {
+            "title": "جاب‌ویژن",
+            "description": "سامانه کاریابی و استخدام با رزومه‌ساز حرفه‌ای.",
+            "favicon": "https:\/\/jobvision.ir\/favicon.ico",
+            "url": "https:\/\/jobvision.ir"
+        },
+        {
+            "title": "ایران‌تلنت",
+            "description": "سامانه جذب نیروی متخصص در شرکت‌های معتبر داخلی و خارجی.",
+            "favicon": "https:\/\/irantalent.com\/favicon.ico",
+            "url": "https:\/\/irantalent.com"
+        },
+        {
+            "title": "جابینجا",
+            "description": "استخدام در استارتاپ‌ها و شرکت‌های نوآور ایرانی.",
+            "favicon": "https:\/\/jobinja.ir\/favicon.ico",
+            "url": "https:\/\/jobinja.ir"
+        },
+        {
+            "title": "Indeed",
+            "description": "سایت بین‌المللی برای جستجوی شغل و آگهی‌های استخدام.",
+            "favicon": "https:\/\/www.indeed.com\/favicon.ico",
+            "url": "https:\/\/www.indeed.com"
+        },
+        {
+            "title": "دیوار کار",
+            "description": "بخش استخدام و درخواست کار در سایت دیوار.",
+            "favicon": "https:\/\/divar.ir\/favicon.ico",
+            "url": "https:\/\/divar.ir\/s\/iran\/jobs"
+        }
+    ],
+    "sport": [
+        {
+            "title": "ورزش ۳",
+            "description": "خبرهای روز، ویدیو و نتایج مسابقات ورزشی داخلی و خارجی.",
+            "favicon": "https:\/\/www.varzesh3.com\/favicon.ico",
+            "url": "https:\/\/www.varzesh3.com"
+        },
+        {
+            "title": "طرفداری",
+            "description": "پایگاه هواداران ورزش با تحلیل و اخبار فوتبال.",
+            "favicon": "https:\/\/www.tarafdari.com\/favicon.ico",
+            "url": "https:\/\/www.tarafdari.com"
+        },
+        {
+            "title": "FIFA",
+            "description": "سایت رسمی فدراسیون جهانی فوتبال با اطلاعات جام‌های جهانی.",
+            "favicon": "https:\/\/www.fifa.com\/favicon.ico",
+            "url": "https:\/\/www.fifa.com"
+        },
+        {
+            "title": "Olympics.com",
+            "description": "سایت رسمی بازی‌های المپیک با تاریخچه و نتایج.",
+            "favicon": "https:\/\/olympics.com\/favicon.ico",
+            "url": "https:\/\/olympics.com"
+        },
+        {
+            "title": "ESPN",
+            "description": "شبکه ورزشی معتبر آمریکا با پوشش زنده، اخبار و نتایج.",
+            "favicon": "https:\/\/www.espn.com\/favicon.ico",
+            "url": "https:\/\/www.espn.com"
+        }
+    ],
+    "gadgets": [
+        {
+            "title": "GSM Arena",
+            "description": "بررسی کامل گوشی‌ها، مقایسه و اخبار روز دنیای موبایل.",
+            "favicon": "https:\/\/www.gsmarena.com\/favicon.ico",
+            "url": "https:\/\/www.gsmarena.com\/"
+        },
+        {
+            "title": "Android Authority",
+            "description": "اخبار و بررسی تخصصی گجت‌ها و دستگاه‌های اندرویدی.",
+            "favicon": "https:\/\/www.androidauthority.com\/favicon.ico",
+            "url": "https:\/\/www.androidauthority.com\/"
+        },
+        {
+            "title": "The Verge – Gadgets",
+            "description": "جدیدترین اخبار و بررسی‌ها درباره گجت‌های هوشمند.",
+            "favicon": "https:\/\/www.theverge.com\/favicon.ico",
+            "url": "https:\/\/www.theverge.com\/tech"
+        },
+        {
+            "title": "Engadget",
+            "description": "تازه‌های فناوری و معرفی گجت‌های نوآورانه.",
+            "favicon": "https:\/\/www.engadget.com\/favicon.ico",
+            "url": "https:\/\/www.engadget.com\/"
+        },
+        {
+            "title": "Digital Trends",
+            "description": "راهنمای خرید، اخبار و نقد و بررسی گجت‌ها و تکنولوژی.",
+            "favicon": "https:\/\/www.digitaltrends.com\/favicon.ico",
+            "url": "https:\/\/www.digitaltrends.com\/"
+        }
+    ],
+    "nutrition": [
+        {
+            "title": "NutritionFacts",
+            "description": "ویدیوهای علمی و مقالات درباره تغذیه سالم توسط دکتر گرگر.",
+            "favicon": "https:\/\/nutritionfacts.org\/favicon.ico",
+            "url": "https:\/\/nutritionfacts.org\/"
+        },
+        {
+            "title": "Healthline – Nutrition",
+            "description": "مطالب جامع درباره تغذیه و رژیم‌های غذایی سالم.",
+            "favicon": "https:\/\/www.healthline.com\/favicon.ico",
+            "url": "https:\/\/www.healthline.com\/nutrition"
+        },
+        {
+            "title": "Verywell Fit",
+            "description": "راهنمایی درباره تغذیه، سلامت و ورزش توسط متخصصان.",
+            "favicon": "https:\/\/www.verywellfit.com\/favicon.ico",
+            "url": "https:\/\/www.verywellfit.com\/"
+        },
+        {
+            "title": "Eat This, Not That!",
+            "description": "مقالاتی درباره تغذیه، کاهش وزن و انتخاب‌های سالم غذایی.",
+            "favicon": "https:\/\/www.eatthis.com\/favicon.ico",
+            "url": "https:\/\/www.eatthis.com\/"
+        },
+        {
+            "title": "The Nutrition Source – Harvard",
+            "description": "مرجع علمی تغذیه از دانشکده سلامت عمومی هاروارد.",
+            "favicon": "https:\/\/www.hsph.harvard.edu\/favicon.ico",
+            "url": "https:\/\/www.hsph.harvard.edu\/nutritionsource\/"
+        }
+    ],
+    "psychology": [
+        {
+            "title": "Psychology Today",
+            "description": "مقالات، تست‌ها و اطلاعات مفید درباره روانشناسی روزمره.",
+            "favicon": "https:\/\/www.psychologytoday.com\/favicon.ico",
+            "url": "https:\/\/www.psychologytoday.com\/"
+        },
+        {
+            "title": "MindTools",
+            "description": "ابزارهای ذهنی برای توسعه فردی، اعتماد به نفس و کاهش استرس.",
+            "favicon": "https:\/\/www.mindtools.com\/favicon.ico",
+            "url": "https:\/\/www.mindtools.com\/"
+        },
+        {
+            "title": "Positive Psychology",
+            "description": "مقالات علمی درباره روانشناسی مثبت و رشد شخصی.",
+            "favicon": "https:\/\/positivepsychology.com\/favicon.ico",
+            "url": "https:\/\/positivepsychology.com\/"
+        },
+        {
+            "title": "APA – American Psychological Association",
+            "description": "منبع معتبر علمی درباره پژوهش‌های روانشناسی.",
+            "favicon": "https:\/\/www.apa.org\/favicon.ico",
+            "url": "https:\/\/www.apa.org\/"
+        },
+        {
+            "title": "Verywell Mind",
+            "description": "نکات کاربردی روانشناسی برای زندگی بهتر و سلامت ذهنی.",
+            "favicon": "https:\/\/www.verywellmind.com\/favicon.ico",
+            "url": "https:\/\/www.verywellmind.com\/"
+        }
+    ],
+    "skincare": [
+        {
+            "title": "Byrdie – Skincare",
+            "description": "مقالات تخصصی در زمینه مراقبت از پوست، زیبایی و محصولات پوستی.",
+            "favicon": "https:\/\/www.byrdie.com\/favicon.ico",
+            "url": "https:\/\/www.byrdie.com\/skin-care-4692035"
+        },
+        {
+            "title": "Paula's Choice Skincare Blog",
+            "description": "راهنمای علمی مراقبت از پوست با بررسی محصولات و ترکیبات.",
+            "favicon": "https:\/\/www.paulaschoice.com\/on\/demandware.static\/Sites-paulas-us-Site\/-\/default\/dw36c19d52\/images\/favicon.ico",
+            "url": "https:\/\/www.paulaschoice.com\/expert-advice\/skincare-advice.html"
+        },
+        {
+            "title": "The Klog",
+            "description": "راهنمای کره‌ای مراقبت از پوست با معرفی مراحل روتین پوستی.",
+            "favicon": "https:\/\/theklog.co\/favicon.ico",
+            "url": "https:\/\/theklog.co\/"
+        },
+        {
+            "title": "Skincare Hero",
+            "description": "راهنمای محصولات و روتین برای انواع پوست با تحلیل علمی.",
+            "favicon": "https:\/\/skincarehero.com\/favicon.ico",
+            "url": "https:\/\/skincarehero.com\/"
+        },
+        {
+            "title": "Lab Muffin Beauty Science",
+            "description": "تحلیل علمی ترکیبات محصولات زیبایی توسط دکتر شیمی.",
+            "favicon": "https:\/\/labmuffin.com\/wp-content\/uploads\/2019\/10\/cropped-labmuffin-favicon-1-32x32.png",
+            "url": "https:\/\/labmuffin.com\/"
+        }
+    ],
+    "fitness": [
+        {
+            "title": "Bodybuilding.com",
+            "description": "برنامه‌های تمرینی، تغذیه و مکمل‌ها برای تناسب اندام.",
+            "favicon": "https:\/\/www.bodybuilding.com\/favicon.ico",
+            "url": "https:\/\/www.bodybuilding.com\/"
+        },
+        {
+            "title": "MyFitnessPal Blog",
+            "description": "راهنمای تغذیه، کالری‌شماری و فعالیت بدنی روزانه.",
+            "favicon": "https:\/\/blog.myfitnesspal.com\/wp-content\/themes\/myfitnesspal2014\/favicon.ico",
+            "url": "https:\/\/blog.myfitnesspal.com\/"
+        },
+        {
+            "title": "Nerd Fitness",
+            "description": "تمرین‌های خانگی، چالش‌های انگیزشی و برنامه‌های کاهش وزن.",
+            "favicon": "https:\/\/www.nerdfitness.com\/favicon.ico",
+            "url": "https:\/\/www.nerdfitness.com\/"
+        },
+        {
+            "title": "Fitness Blender",
+            "description": "ویدیوهای تمرینی رایگان برای خانه و باشگاه بدون نیاز به تجهیزات.",
+            "favicon": "https:\/\/www.fitnessblender.com\/favicon.ico",
+            "url": "https:\/\/www.fitnessblender.com\/"
+        },
+        {
+            "title": "Men's Health – Fitness",
+            "description": "راهنمای تمرینات، ساخت عضله و سلامت مردان.",
+            "favicon": "https:\/\/www.menshealth.com\/favicon.ico",
+            "url": "https:\/\/www.menshealth.com\/fitness\/"
+        }
+    ],
+    "traditional-medicine": [
+        {
+            "title": "سلامت دکتر روازاده",
+            "description": "پزشکی ایرانی اسلامی بر پایه آموزه‌های طب سنتی.",
+            "favicon": "https:\/\/ravazadeh.com\/wp-content\/uploads\/2021\/12\/favicon.ico",
+            "url": "https:\/\/ravazadeh.com\/"
+        },
+        {
+            "title": "طبایع",
+            "description": "مرجع جامع مزاج‌شناسی و درمان‌های طبیعی سنتی.",
+            "favicon": "https:\/\/tabaye.ir\/wp-content\/uploads\/2020\/06\/favicon.png",
+            "url": "https:\/\/tabaye.ir\/"
+        },
+        {
+            "title": "مجله اینترنتی دلگرم – طب سنتی",
+            "description": "مطالب عامه‌فهم و کاربردی درباره داروهای گیاهی و نسخه‌های سنتی.",
+            "favicon": "https:\/\/www.delgarm.com\/favicon.ico",
+            "url": "https:\/\/www.delgarm.com\/health\/traditional-medicine"
+        },
+        {
+            "title": "طب شفا",
+            "description": "مطالب عمومی در حوزه طب سنتی و داروهای گیاهی.",
+            "favicon": "https:\/\/tebshafa.com\/favicon.ico",
+            "url": "https:\/\/tebshafa.com\/"
+        },
+        {
+            "title": "مرکز طب سنتی ایران",
+            "description": "پایگاه رسمی پژوهش‌های علمی طب سنتی و خدمات مرتبط.",
+            "favicon": "https:\/\/itmrc.tums.ac.ir\/favicon.ico",
+            "url": "https:\/\/itmrc.tums.ac.ir\/"
+        }
+    ],
+    "blockchain": [
+        {
+            "title": "CoinDesk",
+            "description": "اخبار و تحلیل‌های روز بازار رمزارزها و بلاک‌چین.",
+            "favicon": "https:\/\/www.coindesk.com\/pf\/resources\/icons\/favicon.ico",
+            "url": "https:\/\/www.coindesk.com\/"
+        },
+        {
+            "title": "CoinTelegraph",
+            "description": "تازه‌ترین رویدادها و مقالات تخصصی درباره بلاک‌چین و کریپتو.",
+            "favicon": "https:\/\/cointelegraph.com\/favicon.ico",
+            "url": "https:\/\/cointelegraph.com\/"
+        },
+        {
+            "title": "CryptoSlate",
+            "description": "پلتفرمی برای دنبال‌کردن پروژه‌های بلاک‌چین و رمزارزها.",
+            "favicon": "https:\/\/cryptoslate.com\/favicon.ico",
+            "url": "https:\/\/cryptoslate.com\/"
+        },
+        {
+            "title": "The Block",
+            "description": "تحلیل داده‌های بلاک‌چین و مقالات دقیق اقتصادی درباره آن.",
+            "favicon": "https:\/\/www.theblock.co\/favicon.ico",
+            "url": "https:\/\/www.theblock.co\/"
+        },
+        {
+            "title": "Decrypt",
+            "description": "مقالات آسان‌فهم درباره رمزارزها، NFT، و بلاک‌چین.",
+            "favicon": "https:\/\/decrypt.co\/favicon.ico",
+            "url": "https:\/\/decrypt.co\/"
+        }
+    ],
+    "schools": [
+        {
+            "title": "مدرسه آنلاین رشدینو",
+            "description": "آموزش آنلاین دروس مدرسه برای دانش‌آموزان ابتدایی تا متوسطه.",
+            "favicon": "https:\/\/www.roshdino.ir\/favicon.ico",
+            "url": "https:\/\/www.roshdino.ir\/"
+        },
+        {
+            "title": "همشاگردی",
+            "description": "بانک نمونه سوالات، جزوه‌ها و آزمون‌های مدارس ایران.",
+            "favicon": "https:\/\/hamshahri.org\/favicon.ico",
+            "url": "https:\/\/www.hamshagerdi.ir\/"
+        },
+        {
+            "title": "گاجینو",
+            "description": "مدرسه هوشمند با آموزش تعاملی دروس کنکور و دبیرستان.",
+            "favicon": "https:\/\/gaj.ir\/favicon.ico",
+            "url": "https:\/\/gaj.ir\/"
+        },
+        {
+            "title": "کلاسینو",
+            "description": "پلتفرم آموزش زنده برای دروس مدرسه با اساتید مطرح کشور.",
+            "favicon": "https:\/\/classino.com\/favicon.ico",
+            "url": "https:\/\/classino.com\/"
+        },
+        {
+            "title": "مدرسه مجازی آلاء",
+            "description": "ویدیوهای رایگان از دروس دبیرستان و کنکور با بهترین دبیران.",
+            "favicon": "https:\/\/cdn.alaatv.com\/images\/fav.ico",
+            "url": "https:\/\/alaatv.com\/"
+        }
+    ],
+    "universities": [
+        {
+            "title": "سایت دانشگاه تهران",
+            "description": "پایگاه رسمی اطلاع‌رسانی، خدمات آموزشی و سامانه‌های دانشگاه تهران.",
+            "favicon": "https:\/\/ut.ac.ir\/favicon.ico",
+            "url": "https:\/\/ut.ac.ir\/"
+        },
+        {
+            "title": "سایت دانشگاه شریف",
+            "description": "اطلاعات آموزشی، پژوهشی و اخبار رسمی دانشگاه صنعتی شریف.",
+            "favicon": "https:\/\/sharif.edu\/favicon.ico",
+            "url": "https:\/\/sharif.edu\/"
+        },
+        {
+            "title": "سایت دانشگاه پیام نور",
+            "description": "سیستم آموزش مجازی و سامانه گلستان دانشگاه پیام نور.",
+            "favicon": "https:\/\/pnu.ac.ir\/favicon.ico",
+            "url": "https:\/\/www.pnu.ac.ir\/"
+        },
+        {
+            "title": "مکتب‌خونه - دوره‌های دانشگاهی",
+            "description": "آموزش آنلاین با کیفیت از اساتید دانشگاه‌های ایران مانند شریف و تهران.",
+            "favicon": "https:\/\/maktabkhooneh.org\/favicon.ico",
+            "url": "https:\/\/maktabkhooneh.org\/"
+        },
+        {
+            "title": "سامانه سجاد وزارت علوم",
+            "description": "سامانه خدمات آموزشی وزارت علوم برای دانشجویان و اساتید.",
+            "favicon": "https:\/\/portal.saorg.ir\/favicon.ico",
+            "url": "https:\/\/portal.saorg.ir\/"
+        }
+    ],
+    "languages": [
+        {
+            "title": "بیاموز",
+            "description": "آموزش آنلاین زبان‌های انگلیسی، آلمانی، فرانسه و ... با تمرین تعاملی.",
+            "favicon": "https:\/\/b-amooz.com\/favicon.ico",
+            "url": "https:\/\/b-amooz.com\/"
+        },
+        {
+            "title": "زبانشناس",
+            "description": "اپلیکیشن یادگیری زبان با پادکست، کتاب و انیمیشن‌های آموزشی.",
+            "favicon": "https:\/\/zapp.ir\/favicon.ico",
+            "url": "https:\/\/zapp.ir\/"
+        },
+        {
+            "title": "Duolingo",
+            "description": "پلتفرم یادگیری زبان رایگان و محبوب با تمرین‌های سرگرم‌کننده.",
+            "favicon": "https:\/\/www.duolingo.com\/favicon.ico",
+            "url": "https:\/\/www.duolingo.com\/"
+        },
+        {
+            "title": "LingQ",
+            "description": "یادگیری زبان از طریق خواندن و شنیدن محتوای واقعی.",
+            "favicon": "https:\/\/www.lingq.com\/favicon.ico",
+            "url": "https:\/\/www.lingq.com\/"
+        },
+        {
+            "title": "BBC Learning English",
+            "description": "یادگیری زبان انگلیسی با اخبار، ویدیو و تمرین‌های واقعی BBC.",
+            "favicon": "https:\/\/www.bbc.co.uk\/favicon.ico",
+            "url": "https:\/\/www.bbc.co.uk\/learningenglish"
+        }
+    ],
+    "books": [
+        {
+            "title": "کتابراه",
+            "description": "فروشگاه و اپلیکیشن کتاب الکترونیک و صوتی با هزاران عنوان فارسی.",
+            "favicon": "https:\/\/www.ketabrah.ir\/favicon.ico",
+            "url": "https:\/\/www.ketabrah.ir\/"
+        },
+        {
+            "title": "طاقچه",
+            "description": "فروشگاه کتاب‌های دیجیتال فارسی با امکان مطالعه رایگان.",
+            "favicon": "https:\/\/taaghche.com\/favicon.ico",
+            "url": "https:\/\/taaghche.com\/"
+        },
+        {
+            "title": "گودریدز (Goodreads)",
+            "description": "پایگاه داده عظیم کتاب‌ها، بررسی‌ها و لیست‌خوانی‌ها.",
+            "favicon": "https:\/\/www.goodreads.com\/favicon.ico",
+            "url": "https:\/\/www.goodreads.com\/"
+        },
+        {
+            "title": "فیدیبو",
+            "description": "کتابخانه‌ای بزرگ از کتاب‌های دیجیتال و صوتی با اپ موبایل.",
+            "favicon": "https:\/\/fidibo.com\/favicon.ico",
+            "url": "https:\/\/fidibo.com\/"
+        },
+        {
+            "title": "Project Gutenberg",
+            "description": "کتابخانه رایگان با هزاران کتاب کلاسیک عمومی برای دانلود.",
+            "favicon": "https:\/\/www.gutenberg.org\/favicon.ico",
+            "url": "https:\/\/www.gutenberg.org\/"
+        }
+    ],
+    "digital-devices": [
+        {
+            "title": "دیجی‌کالا",
+            "description": "فروشگاه بزرگ آنلاین با تنوع بی‌نظیر در موبایل، لپ‌تاپ، هدفون و لوازم دیجیتال.",
+            "favicon": "https:\/\/www.digikala.com\/favicon.ico",
+            "url": "https:\/\/www.digikala.com\/"
+        },
+        {
+            "title": "آمازون",
+            "description": "یکی از بزرگترین فروشگاه‌های آنلاین برای خرید انواع گجت و محصولات دیجیتال.",
+            "favicon": "https:\/\/www.amazon.com\/favicon.ico",
+            "url": "https:\/\/www.amazon.com\/"
+        },
+        {
+            "title": "مقداد آی‌تی",
+            "description": "فروشگاه تخصصی لپ‌تاپ، قطعات کامپیوتر، مانیتور و لوازم جانبی.",
+            "favicon": "https:\/\/www.mehdadit.com\/favicon.ico",
+            "url": "https:\/\/www.mehdadit.com\/"
+        },
+        {
+            "title": "پانا پی‌سی",
+            "description": "فروشگاه آنلاین سخت‌افزار و گیمینگ با تضمین اصالت کالا.",
+            "favicon": "https:\/\/panapc.ir\/favicon.ico",
+            "url": "https:\/\/panapc.ir\/"
+        },
+        {
+            "title": "تهران‌پرداز",
+            "description": "عرضه‌کننده انواع موبایل، لپ‌تاپ، تبلت و تجهیزات ذخیره‌سازی.",
+            "favicon": "https:\/\/www.tehranpardaz.com\/favicon.ico",
+            "url": "https:\/\/www.tehranpardaz.com\/"
+        }
+    ],
+    "clothing": [
+        {
+            "title": "بانی مد",
+            "description": "فروشگاه اینترنتی برندهای پوشاک ایرانی و خارجی برای مردان و زنان.",
+            "favicon": "https:\/\/www.banimode.com\/favicon.ico",
+            "url": "https:\/\/www.banimode.com\/"
+        },
+        {
+            "title": "مُدیسه",
+            "description": "مرجع خرید آنلاین پوشاک، کیف، کفش، اکسسوری و محصولات آرایشی.",
+            "favicon": "https:\/\/www.modiseh.com\/favicon.ico",
+            "url": "https:\/\/www.modiseh.com\/"
+        },
+        {
+            "title": "دیجی‌استایل",
+            "description": "زیرمجموعه دیجی‌کالا برای خرید پوشاک و اکسسوری‌های برند.",
+            "favicon": "https:\/\/www.digistyle.com\/favicon.ico",
+            "url": "https:\/\/www.digistyle.com\/"
+        },
+        {
+            "title": "زارا (Zara)",
+            "description": "فروشگاه جهانی پوشاک با طراحی‌های به‌روز و ترندهای جدید.",
+            "favicon": "https:\/\/www.zara.com\/favicon.ico",
+            "url": "https:\/\/www.zara.com\/"
+        },
+        {
+            "title": "چی بپوشم",
+            "description": "مجله مد و استایل با فروشگاه اینترنتی پوشاک زنانه و مردانه.",
+            "favicon": "https:\/\/chibeposham.com\/favicon.ico",
+            "url": "https:\/\/chibeposham.com\/"
+        }
+    ],
+    "supermarket": [
+        {
+            "title": "اسنپ‌مارکت",
+            "description": "خرید اینترنتی محصولات سوپرمارکتی با ارسال سریع در سراسر کشور.",
+            "favicon": "https:\/\/snapp.market\/favicon.ico",
+            "url": "https:\/\/snapp.market\/"
+        },
+        {
+            "title": "دیجی‌کالا‌فرِش",
+            "description": "فروشگاه آنلاین مواد غذایی تازه، خشکبار و لبنیات.",
+            "favicon": "https:\/\/www.digikalafresh.com\/favicon.ico",
+            "url": "https:\/\/www.digikalafresh.com\/"
+        },
+        {
+            "title": "اکالا",
+            "description": "فروشگاه آنلاین افق کوروش با انواع کالاهای سوپرمارکتی.",
+            "favicon": "https:\/\/okala.com\/favicon.ico",
+            "url": "https:\/\/okala.com\/"
+        },
+        {
+            "title": "هایپر استار",
+            "description": "فروشگاه آنلاین زنجیره‌ای با کالاهای غذایی و بهداشتی.",
+            "favicon": "https:\/\/www.hyperstariran.com\/favicon.ico",
+            "url": "https:\/\/www.hyperstariran.com\/"
+        },
+        {
+            "title": "رفاه مارکت",
+            "description": "سوپرمارکت اینترنتی فروشگاه رفاه با تخفیف‌های روزانه.",
+            "favicon": "https:\/\/refah.ir\/favicon.ico",
+            "url": "https:\/\/refah.ir\/"
+        }
+    ],
+    "handmade": [
+        {
+            "title": "سبدک",
+            "description": "بازار آنلاین محصولات دست‌ساز هنری، صنایع دستی و تزئینات منزل.",
+            "favicon": "https:\/\/www.sabedak.com\/favicon.ico",
+            "url": "https:\/\/www.sabedak.com\/"
+        },
+        {
+            "title": "زنبیلک",
+            "description": "فروشگاه آنلاین هدایای دست‌ساز و دکوری با بسته‌بندی خاص.",
+            "favicon": "https:\/\/zanbilak.com\/favicon.ico",
+            "url": "https:\/\/zanbilak.com\/"
+        },
+        {
+            "title": "ترب - دسته صنایع‌دستی",
+            "description": "مقایسه قیمت و خرید محصولات دست‌ساز و هنری از فروشگاه‌های مختلف.",
+            "favicon": "https:\/\/torob.com\/favicon.ico",
+            "url": "https:\/\/torob.com\/b\/صنایع-دستی\/"
+        },
+        {
+            "title": "Etsy",
+            "description": "مارکت جهانی محصولات دست‌ساز و خاص از هنرمندان مستقل.",
+            "favicon": "https:\/\/www.etsy.com\/favicon.ico",
+            "url": "https:\/\/www.etsy.com\/"
+        },
+        {
+            "title": "آرتینا",
+            "description": "فروشگاه اینترنتی لوازم تزئینی و هنری دست‌ساز با طراحی خاص.",
+            "favicon": "https:\/\/artina.ir\/favicon.ico",
+            "url": "https:\/\/artina.ir\/"
+        }
+    ],
+    "home-appliances": [
+        {
+            "title": "بوش ایران",
+            "description": "نمایندگی رسمی بوش در ایران برای خرید انواع لوازم خانگی.",
+            "favicon": "https:\/\/www.bosch-home.com\/favicon.ico",
+            "url": "https:\/\/www.bosch-home.com\/ir\/"
+        },
+        {
+            "title": "تکنو کالا",
+            "description": "فروشگاه تخصصی لوازم خانگی بزرگ و کوچک با تضمین قیمت.",
+            "favicon": "https:\/\/www.technokala.com\/favicon.ico",
+            "url": "https:\/\/www.technokala.com\/"
+        },
+        {
+            "title": "سیماران مارکت",
+            "description": "فروشگاه آنلاین لوازم خانگی و برقی از برندهای معتبر.",
+            "favicon": "https:\/\/www.simaranmarket.com\/favicon.ico",
+            "url": "https:\/\/www.simaranmarket.com\/"
+        },
+        {
+            "title": "بهستان کالا",
+            "description": "فروشگاه اینترنتی تخصصی لوازم خانگی آشپزخانه، سرمایشی و گرمایشی.",
+            "favicon": "https:\/\/www.behstankala.com\/favicon.ico",
+            "url": "https:\/\/www.behstankala.com\/"
+        },
+        {
+            "title": "خریدیار - مقایسه قیمت لوازم خانگی",
+            "description": "راهنمای خرید و مقایسه قیمت انواع لوازم خانگی در فروشگاه‌ها.",
+            "favicon": "https:\/\/kharidyaar.ir\/favicon.ico",
+            "url": "https:\/\/kharidyaar.ir\/"
+        }
+    ],
+    "news-agencies": [
+        {
+            "title": "خبرگزاری ایرنا",
+            "description": "خبرگزاری رسمی جمهوری اسلامی ایران با پوشش جامع رویدادهای داخلی و خارجی.",
+            "favicon": "https:\/\/www.irna.ir\/favicon.ico",
+            "url": "https:\/\/www.irna.ir\/"
+        },
+        {
+            "title": "خبرگزاری فارس",
+            "description": "پوشش اخبار سیاسی، فرهنگی، اجتماعی و اقتصادی ایران و جهان.",
+            "favicon": "https:\/\/www.farsnews.ir\/favicon.ico",
+            "url": "https:\/\/www.farsnews.ir\/"
+        },
+        {
+            "title": "خبرگزاری ایسنا",
+            "description": "خبرگزاری دانشجویان ایران با رویکرد تحلیلی و اطلاع‌رسانی سریع.",
+            "favicon": "https:\/\/www.isna.ir\/favicon.ico",
+            "url": "https:\/\/www.isna.ir\/"
+        },
+        {
+            "title": "خبرگزاری مهر",
+            "description": "پایگاه خبری فرهنگی، اجتماعی، اقتصادی و بین‌المللی.",
+            "favicon": "https:\/\/www.mehrnews.com\/favicon.ico",
+            "url": "https:\/\/www.mehrnews.com\/"
+        },
+        {
+            "title": "خبرآنلاین",
+            "description": "وب‌سایت خبری با تمرکز بر اخبار روز، تحلیل‌ها و یادداشت‌ها.",
+            "favicon": "https:\/\/www.khabaronline.ir\/favicon.ico",
+            "url": "https:\/\/www.khabaronline.ir\/"
+        }
+    ],
+    "politics": [
+        {
+            "title": "دیپلماسی ایرانی",
+            "description": "تحلیل‌های تخصصی درباره سیاست خارجی و روابط بین‌الملل.",
+            "favicon": "https:\/\/www.irdiplomacy.ir\/favicon.ico",
+            "url": "https:\/\/www.irdiplomacy.ir\/"
+        },
+        {
+            "title": "تابناک",
+            "description": "تحلیل و اخبار سیاسی روز ایران با دیدگاه‌های متفاوت.",
+            "favicon": "https:\/\/www.tabnak.ir\/favicon.ico",
+            "url": "https:\/\/www.tabnak.ir\/"
+        },
+        {
+            "title": "انتخاب",
+            "description": "سایت خبری با محوریت تحلیل سیاسی و پوشش اخبار کلان.",
+            "favicon": "https:\/\/www.entekhab.ir\/favicon.ico",
+            "url": "https:\/\/www.entekhab.ir\/"
+        },
+        {
+            "title": "الف",
+            "description": "پایگاه تحلیل و خبر سیاسی با گرایش انتقادی و تحلیل‌محور.",
+            "favicon": "https:\/\/www.alef.ir\/favicon.ico",
+            "url": "https:\/\/www.alef.ir\/"
+        },
+        {
+            "title": "پایشگر سیاسی بی‌بی‌سی فارسی",
+            "description": "تحلیل‌های عمیق از تحولات سیاسی ایران و جهان.",
+            "favicon": "https:\/\/www.bbc.com\/favicon.ico",
+            "url": "https:\/\/www.bbc.com\/persian"
+        }
+    ],
+    "sports": [
+        {
+            "title": "ورزش سه",
+            "description": "معتبرترین منبع خبری و تحلیلی ورزشی با پوشش زنده بازی‌ها.",
+            "favicon": "https:\/\/www.varzesh3.com\/favicon.ico",
+            "url": "https:\/\/www.varzesh3.com\/"
+        },
+        {
+            "title": "طرفداری",
+            "description": "سایت تخصصی اخبار، ویدیو و گزارش‌های فوتبالی و ورزشی.",
+            "favicon": "https:\/\/www.tarafdari.com\/favicon.ico",
+            "url": "https:\/\/www.tarafdari.com\/"
+        },
+        {
+            "title": "ورزش‌نیوز",
+            "description": "پایگاه خبری ورزش ایران با تمرکز بر فوتبال، کشتی و والیبال.",
+            "favicon": "https:\/\/varzeshnews.com\/favicon.ico",
+            "url": "https:\/\/varzeshnews.com\/"
+        },
+        {
+            "title": "فوتبالی",
+            "description": "اخبار، تحلیل و نتایج زنده فوتبال ایران و اروپا.",
+            "favicon": "https:\/\/footballi.net\/favicon.ico",
+            "url": "https:\/\/footballi.net\/"
+        },
+        {
+            "title": "اسپورت",
+            "description": "اخبار و گزارش‌های ویژه ورزش از ایران و جهان.",
+            "favicon": "https:\/\/www.sport.ir\/favicon.ico",
+            "url": "https:\/\/www.sport.ir\/"
+        }
+    ],
+    "economy": [
+        {
+            "title": "اکوایران",
+            "description": "رسانه تحلیلی اقتصاد ایران با اخبار بازار سرمایه، ارز و طلا.",
+            "favicon": "https:\/\/ecoiran.com\/favicon.ico",
+            "url": "https:\/\/ecoiran.com\/"
+        },
+        {
+            "title": "دنیای اقتصاد",
+            "description": "روزنامه و وب‌سایت تحلیلی بازارهای مالی، بورس، طلا و مسکن.",
+            "favicon": "https:\/\/donya-e-eqtesad.com\/favicon.ico",
+            "url": "https:\/\/donya-e-eqtesad.com\/"
+        },
+        {
+            "title": "اقتصادنیوز",
+            "description": "پایگاه خبری اقتصادی با تحلیل سیاست‌های پولی و مالی.",
+            "favicon": "https:\/\/www.eghtesadnews.com\/favicon.ico",
+            "url": "https:\/\/www.eghtesadnews.com\/"
+        },
+        {
+            "title": "تجارت‌نیوز",
+            "description": "اخبار روز اقتصادی با تمرکز بر سرمایه‌گذاری، تورم و ارز.",
+            "favicon": "https:\/\/tejaratnews.com\/favicon.ico",
+            "url": "https:\/\/tejaratnews.com\/"
+        },
+        {
+            "title": "بورس‌نیوز",
+            "description": "رسانه تخصصی بازار سرمایه و بورس تهران.",
+            "favicon": "https:\/\/www.boursenews.ir\/favicon.ico",
+            "url": "https:\/\/www.boursenews.ir\/"
+        }
+    ],
+    "international": [
+        {
+            "title": "یورونیوز فارسی",
+            "description": "پوشش اخبار بین‌المللی از منظر بی‌طرف و چندزبانه.",
+            "favicon": "https:\/\/fa.euronews.com\/favicon.ico",
+            "url": "https:\/\/fa.euronews.com\/"
+        },
+        {
+            "title": "بی‌بی‌سی فارسی",
+            "description": "رسانه بین‌المللی با اخبار و تحلیل‌های جهانی به زبان فارسی.",
+            "favicon": "https:\/\/www.bbc.com\/favicon.ico",
+            "url": "https:\/\/www.bbc.com\/persian"
+        },
+        {
+            "title": "صدای آمریکا فارسی",
+            "description": "پوشش جهانی تحولات سیاسی و اجتماعی از نگاه غرب.",
+            "favicon": "https:\/\/ir.voanews.com\/favicon.ico",
+            "url": "https:\/\/ir.voanews.com\/"
+        },
+        {
+            "title": "الجزیره",
+            "description": "رسانه بین‌المللی با تمرکز بر جهان عرب و غرب آسیا.",
+            "favicon": "https:\/\/www.aljazeera.com\/favicon.ico",
+            "url": "https:\/\/www.aljazeera.com\/"
+        },
+        {
+            "title": "رویترز",
+            "description": "مرجع بین‌المللی اخبار فوری و تحولات سیاسی و اقتصادی.",
+            "favicon": "https:\/\/www.reuters.com\/favicon.ico",
+            "url": "https:\/\/www.reuters.com\/"
+        }
+    ],
+    "lawyers": [
+        {
+            "title": "کانون وکلای دادگستری مرکز",
+            "description": "سایت رسمی کانون وکلای مرکز با اطلاعات وکیل، آزمون، و اخبار مرتبط.",
+            "favicon": "https:\/\/www.icbar.ir\/favicon.ico",
+            "url": "https:\/\/www.icbar.ir\/"
+        },
+        {
+            "title": "عدالت سرا",
+            "description": "مرجع اطلاع‌رسانی حقوقی با ارائه مشاوره تخصصی از وکلای رسمی.",
+            "favicon": "https:\/\/adlars.ir\/favicon.ico",
+            "url": "https:\/\/adlars.ir\/"
+        },
+        {
+            "title": "وکیل‌باشی",
+            "description": "سامانه مشاوره حقوقی و ارائه خدمات وکالتی آنلاین.",
+            "favicon": "https:\/\/vakilbashi.com\/favicon.ico",
+            "url": "https:\/\/vakilbashi.com\/"
+        },
+        {
+            "title": "وکالت‌آنلاین",
+            "description": "سامانه جستجوی وکیل، مشاوره رایگان و مقالات حقوقی تخصصی.",
+            "favicon": "https:\/\/www.vekalatonline.ir\/favicon.ico",
+            "url": "https:\/\/www.vekalatonline.ir\/"
+        },
+        {
+            "title": "دادور",
+            "description": "پلتفرم آنلاین مشاوره حقوقی و انتخاب وکیل با رزومه شفاف.",
+            "favicon": "https:\/\/www.dadvar.com\/favicon.ico",
+            "url": "https:\/\/www.dadvar.com\/"
+        }
+    ],
+    "laws": [
+        {
+            "title": "پایگاه قوانین و مقررات ایران",
+            "description": "دسترسی کامل به کلیه قوانین و مصوبات جمهوری اسلامی ایران.",
+            "favicon": "https:\/\/qavanin.ir\/favicon.ico",
+            "url": "https:\/\/qavanin.ir\/"
+        },
+        {
+            "title": "قانون‌یار",
+            "description": "سایت جامع قوانین، آیین‌نامه‌ها، آرای وحدت رویه و مقالات حقوقی.",
+            "favicon": "https:\/\/ghanonyar.ir\/favicon.ico",
+            "url": "https:\/\/ghanonyar.ir\/"
+        },
+        {
+            "title": "سامانه ملی قوانین",
+            "description": "پرتال رسمی دسترسی به قوانین کشور تحت نظر معاونت حقوقی ریاست جمهوری.",
+            "favicon": "https:\/\/qavanin.ir\/favicon.ico",
+            "url": "https:\/\/www.dotic.ir\/"
+        },
+        {
+            "title": "حق‌جو",
+            "description": "بانک اطلاعاتی قوانین و مواد قانونی همراه با تفسیر کاربردی.",
+            "favicon": "https:\/\/hagjoo.ir\/favicon.ico",
+            "url": "https:\/\/hagjoo.ir\/"
+        },
+        {
+            "title": "قانون‌مدار",
+            "description": "اطلاع‌رسانی حقوقی، آموزشی و ارجاع به مواد قانونی به زبان ساده.",
+            "favicon": "https:\/\/ghanoonmadar.ir\/favicon.ico",
+            "url": "https:\/\/ghanoonmadar.ir\/"
+        }
+    ],
+    "courts": [
+        {
+            "title": "سایت قوه قضاییه",
+            "description": "پایگاه اطلاع‌رسانی رسمی قوه قضاییه جمهوری اسلامی ایران.",
+            "favicon": "https:\/\/www.ghanoonbaz.ir\/favicon.ico",
+            "url": "https:\/\/www.ghanoonbaz.ir\/"
+        },
+        {
+            "title": "سامانه ثنا (عدالت الکترونیک)",
+            "description": "ثبت‌نام و ورود به سامانه ابلاغ قضایی و پیگیری پرونده‌ها.",
+            "favicon": "https:\/\/sana.adliran.ir\/favicon.ico",
+            "url": "https:\/\/sana.adliran.ir\/"
+        },
+        {
+            "title": "شناسنامه قانون",
+            "description": "آرای دادگاه‌ها، دادنامه‌ها و اطلاعات قضایی معتبر.",
+            "favicon": "https:\/\/shenasname.ir\/favicon.ico",
+            "url": "https:\/\/shenasname.ir\/"
+        },
+        {
+            "title": "دادگاه عدالت اداری",
+            "description": "سایت رسمی دیوان عدالت اداری برای پیگیری پرونده‌های اداری.",
+            "favicon": "https:\/\/www.divan-edalat.ir\/favicon.ico",
+            "url": "https:\/\/www.divan-edalat.ir\/"
+        },
+        {
+            "title": "دادورای",
+            "description": "سامانه مشاوره حقوقی تخصصی با تمرکز بر آرای دادگاه‌ها.",
+            "favicon": "https:\/\/dadvar.ir\/favicon.ico",
+            "url": "https:\/\/dadvar.ir\/"
+        }
+    ],
+    "contracts": [
+        {
+            "title": "وکیل‌باشی - قراردادها",
+            "description": "بیش از ۳۰۰ قرارداد حقوقی تنظیم‌شده توسط وکلای پایه یک.",
+            "favicon": "https:\/\/vakilbashi.com\/favicon.ico",
+            "url": "https:\/\/vakilbashi.com\/contracts"
+        },
+        {
+            "title": "قرارداد ۹۹",
+            "description": "مرجع تنظیم و دانلود قراردادهای حقوقی و پیمانکاری معتبر.",
+            "favicon": "https:\/\/gharardad99.ir\/favicon.ico",
+            "url": "https:\/\/gharardad99.ir\/"
+        },
+        {
+            "title": "مکتب‌خونه - قراردادها",
+            "description": "آموزش تنظیم قراردادهای حقوقی برای کار و زندگی روزمره.",
+            "favicon": "https:\/\/maktabkhooneh.org\/favicon.ico",
+            "url": "https:\/\/maktabkhooneh.org\/contract"
+        },
+        {
+            "title": "قراردادچی",
+            "description": "پلتفرم تنظیم قرارداد با فرم‌های آماده قابل ویرایش.",
+            "favicon": "https:\/\/gharardadchi.ir\/favicon.ico",
+            "url": "https:\/\/gharardadchi.ir\/"
+        },
+        {
+            "title": "وکیل‌تک",
+            "description": "ارائه قالب‌های حقوقی، قراردادها، و راهنمای پر کردن آن‌ها.",
+            "favicon": "https:\/\/vakiltech.com\/favicon.ico",
+            "url": "https:\/\/vakiltech.com\/"
+        }
+    ],
+    "games": [
+        {
+            "title": "آپارات کودک",
+            "description": "ویدیوهای سرگرم‌کننده و آموزنده ویژه کودکان در آپارات.",
+            "favicon": "https:\/\/www.aparat.com\/favicon.ico",
+            "url": "https:\/\/www.aparat.com\/kids"
+        },
+        {
+            "title": "کودک فاکس",
+            "description": "مجموعه بازی‌ها، رنگ‌آمیزی و سرگرمی‌های کودکانه.",
+            "favicon": "https:\/\/koodakfox.ir\/favicon.ico",
+            "url": "https:\/\/koodakfox.ir\/"
+        },
+        {
+            "title": "نی‌نی سایت - سرگرمی کودک",
+            "description": "بازی‌ها و سرگرمی‌های مناسب برای تقویت ذهنی کودکان.",
+            "favicon": "https:\/\/www.ninisite.com\/favicon.ico",
+            "url": "https:\/\/www.ninisite.com\/kids\/games"
+        },
+        {
+            "title": "قصه‌های کودکانه",
+            "description": "سایت قصه کودک همراه با بازی‌های صوتی و تعاملی.",
+            "favicon": "https:\/\/ghesseha.ir\/favicon.ico",
+            "url": "https:\/\/ghesseha.ir\/"
+        },
+        {
+            "title": "کودک سیتی",
+            "description": "سرگرمی، بازی و آموزش خلاقانه برای کودکان پیش‌دبستانی.",
+            "favicon": "https:\/\/koodakcity.com\/favicon.ico",
+            "url": "https:\/\/koodakcity.com\/"
+        }
+    ],
+    "kids-education": [
+        {
+            "title": "همکلاسی",
+            "description": "منابع درسی، تمرین، و آموزش‌های تعاملی برای کودکان.",
+            "favicon": "https:\/\/hamkelasi.ir\/favicon.ico",
+            "url": "https:\/\/hamkelasi.ir\/"
+        },
+        {
+            "title": "آموزش کودک - کودکانه",
+            "description": "آموزش مفاهیم ابتدایی به کودکان با ویدیو، شعر و نقاشی.",
+            "favicon": "https:\/\/koodakane.net\/favicon.ico",
+            "url": "https:\/\/koodakane.net\/"
+        },
+        {
+            "title": "سایت کودک و نوجوان تبیان",
+            "description": "آموزش مفاهیم علمی، دینی و فرهنگی برای کودکان.",
+            "favicon": "https:\/\/www.tebyan.net\/favicon.ico",
+            "url": "https:\/\/www.tebyan.net\/newindex.aspx?pid=355947"
+        },
+        {
+            "title": "ریاضی با طعم بازی",
+            "description": "آموزش ریاضی با بازی و تمرین خلاقانه برای کودکان.",
+            "favicon": "https:\/\/baziemath.ir\/favicon.ico",
+            "url": "https:\/\/baziemath.ir\/"
+        },
+        {
+            "title": "شاد آموز",
+            "description": "آموزش تصویری، نقاشی و علوم برای خردسالان.",
+            "favicon": "https:\/\/shadamooz.ir\/favicon.ico",
+            "url": "https:\/\/shadamooz.ir\/"
+        }
+    ],
+    "parenting": [
+        {
+            "title": "نی‌نی سایت",
+            "description": "جامع‌ترین سایت تخصصی درباره بارداری، تربیت کودک و والدگری.",
+            "favicon": "https:\/\/www.ninisite.com\/favicon.ico",
+            "url": "https:\/\/www.ninisite.com\/"
+        },
+        {
+            "title": "مادرشو",
+            "description": "راهنمای سلامت بارداری، نوزاد و کودک برای والدین.",
+            "favicon": "https:\/\/madarsho.com\/favicon.ico",
+            "url": "https:\/\/madarsho.com\/"
+        },
+        {
+            "title": "الو مامان",
+            "description": "مطالب علمی و کاربردی برای والدگری مدرن.",
+            "favicon": "https:\/\/alomaman.com\/favicon.ico",
+            "url": "https:\/\/alomaman.com\/"
+        },
+        {
+            "title": "کودک من",
+            "description": "مقالات و توصیه‌های روانشناسی تربیتی کودک.",
+            "favicon": "https:\/\/koodakeman.com\/favicon.ico",
+            "url": "https:\/\/koodakeman.com\/"
+        },
+        {
+            "title": "فرزندپروری مثبت",
+            "description": "ابزارها و راهنمای عملی برای والدین آگاه و مسئول.",
+            "favicon": "https:\/\/farzandyar.ir\/favicon.ico",
+            "url": "https:\/\/farzandyar.ir\/"
+        }
+    ],
+    "animations": [
+        {
+            "title": "آپارات کودک",
+            "description": "گلچین انیمیشن‌های ایرانی و خارجی مناسب سنین پایین.",
+            "favicon": "https:\/\/www.aparat.com\/favicon.ico",
+            "url": "https:\/\/www.aparat.com\/kids"
+        },
+        {
+            "title": "پویا تی‌وی",
+            "description": "پخش آنلاین کارتون‌ها و انیمیشن‌های شبکه پویا.",
+            "favicon": "https:\/\/pooyatv.ir\/favicon.ico",
+            "url": "https:\/\/pooyatv.ir\/"
+        },
+        {
+            "title": "هدهد فارسی",
+            "description": "کارتون‌ها و برنامه‌های کودک اسلامی.",
+            "favicon": "https:\/\/hodhodfarsi.tv\/favicon.ico",
+            "url": "https:\/\/hodhodfarsi.tv\/"
+        },
+        {
+            "title": "کودک تی‌وی",
+            "description": "نمایش آنلاین انیمیشن‌های منتخب کودک و نوجوان.",
+            "favicon": "https:\/\/koodaktv.ir\/favicon.ico",
+            "url": "https:\/\/koodaktv.ir\/"
+        },
+        {
+            "title": "دیجی‌کارتون",
+            "description": "مرجع دانلود انیمیشن‌های دوبله فارسی برای کودکان.",
+            "favicon": "https:\/\/digicartoon.ir\/favicon.ico",
+            "url": "https:\/\/digicartoon.ir\/"
+        }
+    ],
+    "kids-books": [
+        {
+            "title": "نارنگی",
+            "description": "فروشگاه کتاب کودک و نوجوان با دسته‌بندی سنی و موضوعی.",
+            "favicon": "https:\/\/narengi.com\/favicon.ico",
+            "url": "https:\/\/narengi.com\/"
+        },
+        {
+            "title": "کتابک",
+            "description": "کتاب‌های مناسب برای کودک و نوجوان با نقد و معرفی.",
+            "favicon": "https:\/\/ketabak.org\/favicon.ico",
+            "url": "https:\/\/ketabak.org\/"
+        },
+        {
+            "title": "فیدیبو - کودک و نوجوان",
+            "description": "کتاب‌های الکترونیک کودک با امکان دانلود فوری.",
+            "favicon": "https:\/\/fidibo.com\/favicon.ico",
+            "url": "https:\/\/fidibo.com\/categories\/childrens-books"
+        },
+        {
+            "title": "شهر کتاب آنلاین - کودک",
+            "description": "کتاب‌های کودک همراه با معرفی و خرید اینترنتی.",
+            "favicon": "https:\/\/shahreketabonline.com\/favicon.ico",
+            "url": "https:\/\/shahreketabonline.com\/kids"
+        },
+        {
+            "title": "قصه‌نگار",
+            "description": "داستان‌ها و کتاب‌های کودک به زبان ساده با صدای گویندگان کودک.",
+            "favicon": "https:\/\/ghessehnegar.ir\/favicon.ico",
+            "url": "https:\/\/ghessehnegar.ir\/"
+        }
+    ],
+    "quran": [
+        {
+            "title": "قرآن کریم تبیان",
+            "description": "متن، ترجمه، تلاوت، و تفسیر قرآن کریم به همراه جستجو.",
+            "favicon": "https:\/\/www.tebyan.net\/favicon.ico",
+            "url": "https:\/\/quran.tebyan.net\/"
+        },
+        {
+            "title": "قرآن سایت",
+            "description": "نمایش قرآن، قرائت قاریان مشهور و تفسیر آیات.",
+            "favicon": "https:\/\/www.quransite.com\/favicon.ico",
+            "url": "https:\/\/www.quransite.com\/"
+        },
+        {
+            "title": "القرآن",
+            "description": "نمایش آنلاین قرآن با صوت، ترجمه و جستجوی پیشرفته.",
+            "favicon": "https:\/\/al-quran.info\/favicon.ico",
+            "url": "https:\/\/al-quran.info\/"
+        },
+        {
+            "title": "قرآن صوتی",
+            "description": "قرائت کامل قرآن با صدای قاریان مختلف و امکان دانلود.",
+            "favicon": "https:\/\/www.quranflash.com\/favicon.ico",
+            "url": "https:\/\/www.quranflash.com\/"
+        },
+        {
+            "title": "حافظ قرآن",
+            "description": "سایت تخصصی حفظ قرآن با برنامه‌ریزی و تمرین.",
+            "favicon": "https:\/\/hafezquran.ir\/favicon.ico",
+            "url": "https:\/\/hafezquran.ir\/"
+        }
+    ],
+    "islamic-laws": [
+        {
+            "title": "اسلام کوئست",
+            "description": "پایگاه پاسخگویی به سؤالات شرعی و فقهی.",
+            "favicon": "https:\/\/www.islamquest.net\/favicon.ico",
+            "url": "https:\/\/www.islamquest.net\/fa\/archive\/category\/45"
+        },
+        {
+            "title": "دفتر مقام معظم رهبری",
+            "description": "پرسش و پاسخ احکام و استفتائات مقام معظم رهبری.",
+            "favicon": "https:\/\/www.leader.ir\/favicon.ico",
+            "url": "https:\/\/www.leader.ir\/fa\/question"
+        },
+        {
+            "title": "پایگاه حوزه نت",
+            "description": "احکام فقهی، توضیح المسائل و استفتائات علما.",
+            "favicon": "https:\/\/hawzah.net\/favicon.ico",
+            "url": "https:\/\/hawzah.net\/fa\/magazine"
+        },
+        {
+            "title": "مرکز ملی پاسخگویی",
+            "description": "سوالات شرعی و پاسخ از سوی کارشناسان دینی.",
+            "favicon": "https:\/\/www.pasokhgoo.ir\/favicon.ico",
+            "url": "https:\/\/www.pasokhgoo.ir\/"
+        },
+        {
+            "title": "اسلام پدیا",
+            "description": "مجموعه احکام اسلامی به زبان ساده و قابل فهم.",
+            "favicon": "https:\/\/www.islampedia.ir\/favicon.ico",
+            "url": "https:\/\/www.islampedia.ir\/"
+        }
+    ],
+    "lectures": [
+        {
+            "title": "بیان معنوی",
+            "description": "سخنرانی‌ها و جلسات استاد علی‌رضا پناهیان و اساتید دیگر.",
+            "favicon": "https:\/\/bayanmanavi.ir\/favicon.ico",
+            "url": "https:\/\/bayanmanavi.ir\/"
+        },
+        {
+            "title": "هیئت رایةالعباس",
+            "description": "سخنرانی‌های مذهبی، مداحی و مراسم هیئت‌ها.",
+            "favicon": "https:\/\/www.rayatelabbas.com\/favicon.ico",
+            "url": "https:\/\/www.rayatelabbas.com\/"
+        },
+        {
+            "title": "سخنرانی مذهبی تبیان",
+            "description": "آرشیو ویدیویی از سخنرانی‌های علما و خطبا.",
+            "favicon": "https:\/\/www.tebyan.net\/favicon.ico",
+            "url": "https:\/\/www.tebyan.net\/index.aspx?pid=360770"
+        },
+        {
+            "title": "هیئت‌آنلاین",
+            "description": "پخش زنده و آرشیو سخنرانی‌های هیئت‌های مذهبی.",
+            "favicon": "https:\/\/heyatonline.ir\/favicon.ico",
+            "url": "https:\/\/heyatonline.ir\/"
+        },
+        {
+            "title": "هیئت کجا برم؟",
+            "description": "اطلاع‌رسانی مکان و زمان سخنرانی‌ها و روضه‌ها.",
+            "favicon": "https:\/\/heiatkaja.ir\/favicon.ico",
+            "url": "https:\/\/heiatkaja.ir\/"
+        }
+    ],
+    "occasions": [
+        {
+            "title": "تقویم شمیم یار",
+            "description": "تقویم مناسبت‌های مذهبی با اذان و اوقات شرعی.",
+            "favicon": "https:\/\/shamimyar.ir\/favicon.ico",
+            "url": "https:\/\/shamimyar.ir\/"
+        },
+        {
+            "title": "مناسبت‌های اسلامی تبیان",
+            "description": "مناسبت‌های مذهبی و وقایع تاریخی تقویم اسلامی.",
+            "favicon": "https:\/\/www.tebyan.net\/favicon.ico",
+            "url": "https:\/\/www.tebyan.net\/index.aspx?pid=932"
+        },
+        {
+            "title": "تقویم روز",
+            "description": "تقویم شمسی، قمری، و میلادی همراه با مناسبت‌ها.",
+            "favicon": "https:\/\/www.time.ir\/favicon.ico",
+            "url": "https:\/\/www.time.ir\/"
+        },
+        {
+            "title": "تقویم دیجیتال مذهبی",
+            "description": "مناسبت‌ها و اطلاعات مذهبی هر روز.",
+            "favicon": "https:\/\/www.beytoote.com\/favicon.ico",
+            "url": "https:\/\/www.beytoote.com\/news\/calendar.html"
+        },
+        {
+            "title": "مناسبت‌ها - حوزه نت",
+            "description": "مناسبت‌های دینی و تاریخی در سایت حوزه علمیه.",
+            "favicon": "https:\/\/hawzah.net\/favicon.ico",
+            "url": "https:\/\/hawzah.net\/fa\/magazine\/occasions"
+        }
+    ],
+    "duas": [
+        {
+            "title": "مفاتیح‌الجنان آنلاین",
+            "description": "دسترسی به دعاها، زیارات و اعمال ماه‌ها به صورت آنلاین.",
+            "favicon": "https:\/\/www.makarem.ir\/favicon.ico",
+            "url": "https:\/\/www.makarem.ir\/main.aspx?typeinfo=1005&lid=0&mid=40572"
+        },
+        {
+            "title": "دعایاب",
+            "description": "مرجع کامل دعاها، زیارات، صوت و ترجمه ادعیه.",
+            "favicon": "https:\/\/www.duayab.ir\/favicon.ico",
+            "url": "https:\/\/www.duayab.ir\/"
+        },
+        {
+            "title": "ادعیه تبیان",
+            "description": "دعای کمیل، ندبه، توسل، و دیگر ادعیه با صوت و متن.",
+            "favicon": "https:\/\/www.tebyan.net\/favicon.ico",
+            "url": "https:\/\/www.tebyan.net\/index.aspx?pid=932"
+        },
+        {
+            "title": "قرآن صابرین",
+            "description": "ادعیه و زیارات مفاتیح با صدای قاریان برجسته.",
+            "favicon": "https:\/\/www.saberin.ir\/favicon.ico",
+            "url": "https:\/\/www.saberin.ir\/"
+        },
+        {
+            "title": "ادعیه - بیان معنوی",
+            "description": "متن و صوت ادعیه همراه با فضیلت خواندن.",
+            "favicon": "https:\/\/bayanmanavi.ir\/favicon.ico",
+            "url": "https:\/\/bayanmanavi.ir\/category\/20"
+        }
+    ],
+    "job-postings": [
+        {
+            "title": "ای استخدام",
+            "description": "بانک آگهی‌های استخدامی سراسر کشور همراه با جزئیات و فیلتر پیشرفته.",
+            "favicon": "https:\/\/www.e-estekhdam.com\/favicon.ico",
+            "url": "https:\/\/www.e-estekhdam.com\/"
+        },
+        {
+            "title": "جابینجا",
+            "description": "فرصت‌های شغلی در شرکت‌های معتبر ایران، همراه با امکان ارسال رزومه آنلاین.",
+            "favicon": "https:\/\/jobinja.ir\/favicon.ico",
+            "url": "https:\/\/jobinja.ir\/"
+        },
+        {
+            "title": "ایران‌تلنت",
+            "description": "ویژه موقعیت‌های شغلی سطح بالا، مخصوص حرفه‌ای‌ها و مدیران.",
+            "favicon": "https:\/\/www.irantalent.com\/favicon.ico",
+            "url": "https:\/\/www.irantalent.com\/"
+        },
+        {
+            "title": "جاب ویژن",
+            "description": "موتور جستجوی مشاغل با تست‌های شخصیت‌شناسی و رزومه‌ساز هوشمند.",
+            "favicon": "https:\/\/jobvision.ir\/favicon.ico",
+            "url": "https:\/\/jobvision.ir\/"
+        },
+        {
+            "title": "کاران",
+            "description": "سایت جستجوی کار و ثبت آگهی استخدام برای کارفرمایان.",
+            "favicon": "https:\/\/karan.ir\/favicon.ico",
+            "url": "https:\/\/karan.ir\/"
+        }
+    ],
+    "resume": [
+        {
+            "title": "رزومه‌ساز جابینجا",
+            "description": "ساخت رزومه آنلاین و ارسال به آگهی‌ها با یک کلیک.",
+            "favicon": "https:\/\/jobinja.ir\/favicon.ico",
+            "url": "https:\/\/jobinja.ir\/resume"
+        },
+        {
+            "title": "رزومه‌ساز جاب ویژن",
+            "description": "رزومه‌ساز گرافیکی با قالب‌های متنوع و حرفه‌ای.",
+            "favicon": "https:\/\/jobvision.ir\/favicon.ico",
+            "url": "https:\/\/jobvision.ir\/resume-builder"
+        },
+        {
+            "title": "رزومه‌ساز ایران‌تلنت",
+            "description": "ساخت رزومه دو زبانه و مناسب فرصت‌های بین‌المللی.",
+            "favicon": "https:\/\/www.irantalent.com\/favicon.ico",
+            "url": "https:\/\/www.irantalent.com\/resume-builder\/"
+        },
+        {
+            "title": "رزومه‌ساز کاربوم",
+            "description": "ساخت رزومه حرفه‌ای همراه با راهنمایی قدم‌به‌قدم.",
+            "favicon": "https:\/\/karboom.io\/favicon.ico",
+            "url": "https:\/\/karboom.io\/resume"
+        },
+        {
+            "title": "رزومه‌ساز Canva",
+            "description": "ساخت رزومه‌های زیبا با قالب‌های گرافیکی برای طراحی‌های خاص.",
+            "favicon": "https:\/\/www.canva.com\/favicon.ico",
+            "url": "https:\/\/www.canva.com\/resumes\/"
+        }
+    ],
+    "interview": [
+        {
+            "title": "کاربوم - آمادگی مصاحبه",
+            "description": "راهنمای کامل مصاحبه‌های شغلی با تمرین و سوالات پرتکرار.",
+            "favicon": "https:\/\/karboom.io\/favicon.ico",
+            "url": "https:\/\/karboom.io\/articles\/1652"
+        },
+        {
+            "title": "متمم",
+            "description": "درس‌هایی در مورد آمادگی ذهنی، رفتاری و مهارتی برای مصاحبه.",
+            "favicon": "https:\/\/motamem.org\/favicon.ico",
+            "url": "https:\/\/motamem.org\/interview-skills\/"
+        },
+        {
+            "title": "جاب‌ویژن - سوالات مصاحبه",
+            "description": "مجموعه سوالات پرتکرار و راهنمای پاسخ به آن‌ها.",
+            "favicon": "https:\/\/jobvision.ir\/favicon.ico",
+            "url": "https:\/\/jobvision.ir\/blog\/job-interview-questions\/"
+        },
+        {
+            "title": "زومیت - راهنمای مصاحبه",
+            "description": "مقالاتی درباره تکنیک‌ها، اشتباهات رایج و نکات طلایی مصاحبه.",
+            "favicon": "https:\/\/www.zoomit.ir\/favicon.ico",
+            "url": "https:\/\/www.zoomit.ir\/tag\/interview\/"
+        },
+        {
+            "title": "فرادرس - آموزش مصاحبه",
+            "description": "دوره‌های آموزشی و ویدیویی برای موفقیت در مصاحبه.",
+            "favicon": "https:\/\/faradars.org\/favicon.ico",
+            "url": "https:\/\/faradars.org\/courses\/fvrjp9611-job-interview"
+        }
+    ],
+    "freelance": [
+        {
+            "title": "پونیشا",
+            "description": "سایت فریلنسری ایرانی برای پروژه‌های برنامه‌نویسی، طراحی، ترجمه و ...",
+            "favicon": "https:\/\/ponisha.ir\/favicon.ico",
+            "url": "https:\/\/ponisha.ir\/"
+        },
+        {
+            "title": "انجام میدم",
+            "description": "ارائه خدمات تخصصی فریلنسری با امکان فروش خدمات به‌صورت بسته‌ای.",
+            "favicon": "https:\/\/www.anjammidam.com\/favicon.ico",
+            "url": "https:\/\/www.anjammidam.com\/"
+        },
+        {
+            "title": "کاریشه",
+            "description": "پلتفرم آنلاین برای فریلنسرها در حوزه‌های گوناگون.",
+            "favicon": "https:\/\/www.karishe.com\/favicon.ico",
+            "url": "https:\/\/www.karishe.com\/"
+        },
+        {
+            "title": "پارسکدرز",
+            "description": "انجام پروژه‌های فریلنسری برای شرکت‌ها و اشخاص.",
+            "favicon": "https:\/\/parscoders.com\/favicon.ico",
+            "url": "https:\/\/parscoders.com\/"
+        },
+        {
+            "title": "Upwork",
+            "description": "پلتفرم جهانی فریلنس با پروژه‌های بین‌المللی.",
+            "favicon": "https:\/\/www.upwork.com\/favicon.ico",
+            "url": "https:\/\/www.upwork.com\/"
+        }
+    ],
+    "student-jobs": [
+        {
+            "title": "کو-op دانشگاه شریف",
+            "description": "برنامه‌های کارآموزی و اشتغال برای دانشجویان در همکاری با شرکت‌ها.",
+            "favicon": "https:\/\/career.sharif.ir\/favicon.ico",
+            "url": "https:\/\/career.sharif.ir\/"
+        },
+        {
+            "title": "کارآموزی کاربوم",
+            "description": "آگهی‌های اختصاصی برای کارآموزی و دانشجویان.",
+            "favicon": "https:\/\/karboom.io\/favicon.ico",
+            "url": "https:\/\/karboom.io\/internships"
+        },
+        {
+            "title": "فرصت کارآموزی ایران‌تلنت",
+            "description": "لیست موقعیت‌های کارآموزی شرکت‌های معتبر.",
+            "favicon": "https:\/\/www.irantalent.com\/favicon.ico",
+            "url": "https:\/\/www.irantalent.com\/internship-jobs\/"
+        },
+        {
+            "title": "شتاب‌دهنده‌ها و برنامه‌های دانشجویی",
+            "description": "پلتفرم معرفی فرصت‌های دانشجویی در استارتاپ‌ها.",
+            "favicon": "https:\/\/www.bazicenter.com\/favicon.ico",
+            "url": "https:\/\/startupiran.ir\/"
+        },
+        {
+            "title": "جابینجا - موقعیت دانشجویی",
+            "description": "فیلتر آگهی‌ها بر اساس کار پاره‌وقت یا دانشجویی.",
+            "favicon": "https:\/\/jobinja.ir\/favicon.ico",
+            "url": "https:\/\/jobinja.ir\/jobs?employment_type=internship"
+        }
+    ],
+    "iran-tourism": [
+        {
+            "title": "لست‌سکند",
+            "description": "راهنمای سفر و تجربیات واقعی کاربران از مقاصد داخلی ایران.",
+            "favicon": "https:\/\/lastsecond.ir\/favicon.ico",
+            "url": "https:\/\/lastsecond.ir\/"
+        },
+        {
+            "title": "تریپ‌یاری",
+            "description": "وب‌سایت معرفی جاذبه‌های گردشگری ایران با جزئیات و مسیرها.",
+            "favicon": "https:\/\/tripyar.com\/favicon.ico",
+            "url": "https:\/\/tripyar.com\/"
+        },
+        {
+            "title": "ایران‌هتل‌آنلاین - مجله گردشگری",
+            "description": "مطالب آموزشی و فرهنگی درباره مقاصد ایران.",
+            "favicon": "https:\/\/www.iranhotelonline.com\/favicon.ico",
+            "url": "https:\/\/www.iranhotelonline.com\/blog\/"
+        },
+        {
+            "title": "ایران‌سفر",
+            "description": "سایت جامع اطلاعات گردشگری ایران شامل مکان‌های تاریخی، طبیعی و مذهبی.",
+            "favicon": "https:\/\/irangasht.net\/favicon.ico",
+            "url": "https:\/\/irangasht.net\/"
+        },
+        {
+            "title": "مکان‌یاب گوگل ایران",
+            "description": "جستجوی مکان‌های دیدنی ایران روی نقشه با نظرات کاربران.",
+            "favicon": "https:\/\/maps.google.com\/favicon.ico",
+            "url": "https:\/\/www.google.com\/maps\/search\/جاذبه‌های+گردشگری+ایران\/"
+        }
+    ],
+    "hotel-booking": [
+        {
+            "title": "مستربلیط - هتل",
+            "description": "رزرو آنلاین هتل در سراسر ایران با پشتیبانی ۲۴ ساعته.",
+            "favicon": "https:\/\/mrbit.ir\/favicon.ico",
+            "url": "https:\/\/mrbilit.com\/hotel"
+        },
+        {
+            "title": "جااینجاس",
+            "description": "سایت تخصصی رزرو هتل و اقامتگاه با تخفیف‌های ویژه.",
+            "favicon": "https:\/\/www.jaajgasht.com\/favicon.ico",
+            "url": "https:\/\/www.jaajgasht.com\/"
+        },
+        {
+            "title": "هتل یار",
+            "description": "رزرو هتل در سراسر ایران با مقایسه قیمت‌ها و امکانات.",
+            "favicon": "https:\/\/hotelyar.com\/favicon.ico",
+            "url": "https:\/\/hotelyar.com\/"
+        },
+        {
+            "title": "اسنپ‌تریپ",
+            "description": "مقایسه و رزرو هتل در تمام شهرهای ایران با تخفیف ویژه.",
+            "favicon": "https:\/\/snapptrip.com\/favicon.ico",
+            "url": "https:\/\/snapptrip.com\/"
+        },
+        {
+            "title": "ایران‌هتل‌آنلاین",
+            "description": "رزرو هتل، اقامتگاه سنتی، و هتل‌آپارتمان در ایران.",
+            "favicon": "https:\/\/www.iranhotelonline.com\/favicon.ico",
+            "url": "https:\/\/www.iranhotelonline.com\/"
+        }
+    ],
+    "flight-tickets": [
+        {
+            "title": "علی‌بابا",
+            "description": "خرید بلیط پرواز داخلی و خارجی با قیمت مناسب و استرداد آسان.",
+            "favicon": "https:\/\/www.alibaba.ir\/favicon.ico",
+            "url": "https:\/\/www.alibaba.ir\/"
+        },
+        {
+            "title": "مستربلیط",
+            "description": "رزرو بلیط هواپیما، قطار و اتوبوس در ایران.",
+            "favicon": "https:\/\/mrbilit.com\/favicon.ico",
+            "url": "https:\/\/mrbilit.com\/"
+        },
+        {
+            "title": "سپهر ۳۶۰",
+            "description": "مقایسه قیمت بلیط هواپیما از ایرلاین‌های مختلف.",
+            "favicon": "https:\/\/sepehr360.com\/favicon.ico",
+            "url": "https:\/\/sepehr360.com\/"
+        },
+        {
+            "title": "فلای‌تودی",
+            "description": "خرید بلیط پروازهای خارجی و داخلی با گارانتی ارزان‌ترین قیمت.",
+            "favicon": "https:\/\/flytoday.ir\/favicon.ico",
+            "url": "https:\/\/flytoday.ir\/"
+        },
+        {
+            "title": "اسنپ‌تریپ",
+            "description": "خرید بلیط هواپیما و تور با قیمت مناسب و پشتیبانی کامل.",
+            "favicon": "https:\/\/snapptrip.com\/favicon.ico",
+            "url": "https:\/\/snapptrip.com\/"
+        }
+    ],
+    "foreign-tours": [
+        {
+            "title": "الی‌گشت",
+            "description": "ارائه تورهای خارجی، بلیط هواپیما و رزرو هتل با پشتیبانی فارسی.",
+            "favicon": "https:\/\/www.eligasht.com\/favicon.ico",
+            "url": "https:\/\/www.eligasht.com\/"
+        },
+        {
+            "title": "تورلیدو",
+            "description": "مرکز تورهای خارجی به ویژه ترکیه، دبی، ارمنستان و اروپا.",
+            "favicon": "https:\/\/tourledo.com\/favicon.ico",
+            "url": "https:\/\/tourledo.com\/"
+        },
+        {
+            "title": "آی‌بادز",
+            "description": "مقایسه و رزرو تورهای خارجی لوکس و اقتصادی.",
+            "favicon": "https:\/\/ibadsafar.com\/favicon.ico",
+            "url": "https:\/\/ibadsafar.com\/"
+        },
+        {
+            "title": "ستاره ونک",
+            "description": "ارائه تورهای گروهی و انفرادی به سراسر دنیا.",
+            "favicon": "https:\/\/setarehvanak.com\/favicon.ico",
+            "url": "https:\/\/setarehvanak.com\/"
+        },
+        {
+            "title": "نیلوگشت",
+            "description": "مجری مستقیم تورهای آسیایی و اروپایی با اقامت‌گاه‌های خاص.",
+            "favicon": "https:\/\/nilogasht.com\/favicon.ico",
+            "url": "https:\/\/nilogasht.com\/"
+        }
+    ],
+    "destination-reviews": [
+        {
+            "title": "تریپ‌ادوایزر",
+            "description": "بررسی هزاران مقصد با نظرات کاربران، عکس‌ها و رتبه‌بندی جهانی.",
+            "favicon": "https:\/\/tripadvisor.com\/favicon.ico",
+            "url": "https:\/\/www.tripadvisor.com\/"
+        },
+        {
+            "title": "لست‌سکند - تجربیات کاربران",
+            "description": "خواندن تجربه‌های سفر واقعی کاربران از مقاصد داخلی و خارجی.",
+            "favicon": "https:\/\/lastsecond.ir\/favicon.ico",
+            "url": "https:\/\/lastsecond.ir\/experiences"
+        },
+        {
+            "title": "نویسش - نقد سفر",
+            "description": "نقدهای شخصی و تخصصی درباره سفر به شهرهای مختلف ایران و جهان.",
+            "favicon": "https:\/\/nevisesh.com\/favicon.ico",
+            "url": "https:\/\/nevisesh.com\/"
+        },
+        {
+            "title": "Google Travel Reviews",
+            "description": "نظرات کاربران در نقشه گوگل درباره جاذبه‌ها، رستوران‌ها و هتل‌ها.",
+            "favicon": "https:\/\/www.google.com\/favicon.ico",
+            "url": "https:\/\/www.google.com\/travel\/"
+        },
+        {
+            "title": "رزروهتل - راهنمای سفر",
+            "description": "نقد و بررسی مقاصد محبوب ایران برای سفرهای داخلی.",
+            "favicon": "https:\/\/www.rezohotel.com\/favicon.ico",
+            "url": "https:\/\/www.rezohotel.com\/blog"
+        }
+    ],
+    "football": [
+        {
+            "title": "ورزش سه",
+            "description": "پوشش کامل اخبار، نتایج زنده و تحلیل‌های فوتبال ایران و جهان.",
+            "favicon": "https:\/\/www.varzesh3.com\/favicon.ico",
+            "url": "https:\/\/www.varzesh3.com\/"
+        },
+        {
+            "title": "طرفداری",
+            "description": "اخبار، ویدیوها، ترکیب‌ها و آمار تیم‌های فوتبال داخلی و خارجی.",
+            "favicon": "https:\/\/www.tarafdari.com\/favicon.ico",
+            "url": "https:\/\/www.tarafdari.com\/"
+        },
+        {
+            "title": "90tv",
+            "description": "سایت برنامه نود با آرشیو ویدیوها و تحلیل‌های فوتبالی.",
+            "favicon": "https:\/\/90tv.ir\/favicon.ico",
+            "url": "https:\/\/90tv.ir\/"
+        },
+        {
+            "title": "گل",
+            "description": "سایت جهانی فوتبال با نسخه فارسی، شامل اخبار و مصاحبه‌ها.",
+            "favicon": "https:\/\/www.goal.com\/favicon.ico",
+            "url": "https:\/\/www.goal.com\/fa"
+        },
+        {
+            "title": "یازده",
+            "description": "رسانه تخصصی فوتبال با تمرکز بر لیگ ایران و آسیا.",
+            "favicon": "https:\/\/www.yazdah.net\/favicon.ico",
+            "url": "https:\/\/www.yazdah.net\/"
+        }
+    ],
+    "clubs": [
+        {
+            "title": "باشگاه انقلاب",
+            "description": "یکی از بزرگترین مجموعه‌های ورزشی ایران با انواع رشته‌ها.",
+            "favicon": "https:\/\/enghelabclub.ir\/favicon.ico",
+            "url": "https:\/\/enghelabclub.ir\/"
+        },
+        {
+            "title": "اکسیژن کلاب",
+            "description": "زنجیره باشگاه‌های ورزشی مدرن با امکانات کامل بدنسازی و هوازی.",
+            "favicon": "https:\/\/oxygenclub.ir\/favicon.ico",
+            "url": "https:\/\/oxygenclub.ir\/"
+        },
+        {
+            "title": "پارس فیتنس",
+            "description": "باشگاه مجهز بدنسازی با تمرکز بر خدمات خصوصی.",
+            "favicon": "https:\/\/parsfitness.com\/favicon.ico",
+            "url": "https:\/\/parsfitness.com\/"
+        },
+        {
+            "title": "باشگاه بادی جیم",
+            "description": "مرکز بدنسازی و فیتنس حرفه‌ای ویژه بانوان و آقایان.",
+            "favicon": "https:\/\/bodygym.ir\/favicon.ico",
+            "url": "https:\/\/bodygym.ir\/"
+        },
+        {
+            "title": "فیتنس پارسه",
+            "description": "باشگاه تخصصی فیتنس با برنامه‌های تمرینی و تغذیه‌ای.",
+            "favicon": "https:\/\/fitparseh.com\/favicon.ico",
+            "url": "https:\/\/fitparseh.com\/"
+        }
+    ],
+    "bodybuilding": [
+        {
+            "title": "تن ورز",
+            "description": "مجله بدنسازی و فروشگاه تجهیزات بدنسازی و مکمل‌ها.",
+            "favicon": "https:\/\/tanvarz.ir\/favicon.ico",
+            "url": "https:\/\/tanvarz.ir\/"
+        },
+        {
+            "title": "مکمل‌ها",
+            "description": "سایت تخصصی مکمل‌های بدنسازی با مشاوره و برنامه تمرینی.",
+            "favicon": "https:\/\/mokamelhaa.ir\/favicon.ico",
+            "url": "https:\/\/mokamelhaa.ir\/"
+        },
+        {
+            "title": "ایران بادی",
+            "description": "فروشگاه آنلاین مکمل بدنسازی با مطالب آموزشی برای ورزشکاران.",
+            "favicon": "https:\/\/iranbody.com\/favicon.ico",
+            "url": "https:\/\/iranbody.com\/"
+        },
+        {
+            "title": "آرنولد تیم",
+            "description": "ارائه برنامه تمرینی، رژیم غذایی و مربی آنلاین.",
+            "favicon": "https:\/\/arnoldteam.ir\/favicon.ico",
+            "url": "https:\/\/arnoldteam.ir\/"
+        },
+        {
+            "title": "پروتن",
+            "description": "مجله بدنسازی، مکمل و تغذیه ورزشی به همراه آموزش.",
+            "favicon": "https:\/\/proteon.ir\/favicon.ico",
+            "url": "https:\/\/proteon.ir\/"
+        }
+    ],
+    "sports-nutrition": [
+        {
+            "title": "فیت نس",
+            "description": "راهنمای تغذیه برای ورزشکاران و علاقه‌مندان به فیتنس.",
+            "favicon": "https:\/\/fitnes.ir\/favicon.ico",
+            "url": "https:\/\/fitnes.ir\/"
+        },
+        {
+            "title": "تناسب‌آنلاین",
+            "description": "برنامه تغذیه و مکمل‌سازی براساس هدف و نوع بدن.",
+            "favicon": "https:\/\/tanasob.online\/favicon.ico",
+            "url": "https:\/\/tanasob.online\/"
+        },
+        {
+            "title": "سلامت دات لایف",
+            "description": "مطالب علمی در زمینه تغذیه ورزشی، رژیم و مکمل‌ها.",
+            "favicon": "https:\/\/salamat.life\/favicon.ico",
+            "url": "https:\/\/salamat.life\/"
+        },
+        {
+            "title": "رژیم‌فا",
+            "description": "مشاوره تخصصی تغذیه برای کاهش وزن یا افزایش عضله.",
+            "favicon": "https:\/\/rejimfa.com\/favicon.ico",
+            "url": "https:\/\/rejimfa.com\/"
+        },
+        {
+            "title": "مای‌وید",
+            "description": "مجله بدنسازی با مقالات علمی درباره مکمل‌ها و رژیم.",
+            "favicon": "https:\/\/myvid.ir\/favicon.ico",
+            "url": "https:\/\/myvid.ir\/"
+        }
+    ],
+    "sportswear": [
+        {
+            "title": "دیجی‌استایل",
+            "description": "خرید آنلاین پوشاک و کفش ورزشی از برندهای معتبر.",
+            "favicon": "https:\/\/www.digistyle.com\/favicon.ico",
+            "url": "https:\/\/www.digistyle.com\/"
+        },
+        {
+            "title": "تن‌زیب",
+            "description": "فروشگاه تخصصی لباس و لوازم ورزشی برای خانم‌ها و آقایان.",
+            "favicon": "https:\/\/www.tanzib.com\/favicon.ico",
+            "url": "https:\/\/www.tanzib.com\/"
+        },
+        {
+            "title": "بادی اسپینر",
+            "description": "برند ایرانی با تولیدات تخصصی لباس و کفش ورزشی.",
+            "favicon": "https:\/\/www.bodyspinner.com\/favicon.ico",
+            "url": "https:\/\/www.bodyspinner.com\/"
+        },
+        {
+            "title": "اسپرت لند",
+            "description": "عرضه پوشاک و تجهیزات ورزشی برندهای جهانی.",
+            "favicon": "https:\/\/www.sportland.com\/favicon.ico",
+            "url": "https:\/\/www.sportland.com\/"
+        },
+        {
+            "title": "نایکی ایران",
+            "description": "نمایندگی رسمی نایکی برای خرید لباس، کفش و اکسسوری.",
+            "favicon": "https:\/\/www.nikeiran.com\/favicon.ico",
+            "url": "https:\/\/www.nikeiran.com\/"
+        }
+    ],
+    "speed-test": [
+        {
+            "title": "Speedtest by Ookla",
+            "description": "سرویس مشهور تست سرعت اینترنت با سرورهای جهانی.",
+            "favicon": "https:\/\/www.speedtest.net\/favicon.ico",
+            "url": "https:\/\/www.speedtest.net\/"
+        },
+        {
+            "title": "Fast.com",
+            "description": "سرویس ساده و سریع تست سرعت اینترنت از نتفلیکس.",
+            "favicon": "https:\/\/fast.com\/favicon.ico",
+            "url": "https:\/\/fast.com\/"
+        },
+        {
+            "title": "OpenSpeedTest",
+            "description": "تست سرعت اینترنت بدون نیاز به فلش یا جاوا.",
+            "favicon": "https:\/\/openspeedtest.com\/favicon.ico",
+            "url": "https:\/\/openspeedtest.com\/"
+        },
+        {
+            "title": "NetMeter",
+            "description": "نمودار زنده تست و مانیتور سرعت دانلود و آپلود.",
+            "favicon": "https:\/\/www.netmeter.co\/favicon.ico",
+            "url": "https:\/\/www.netmeter.co\/"
+        },
+        {
+            "title": "IranSpeedTest",
+            "description": "تست سرعت اینترنت با سرورهای ایران.",
+            "favicon": "https:\/\/iranspeedtest.ir\/favicon.ico",
+            "url": "https:\/\/iranspeedtest.ir\/"
+        }
+    ],
+    "screenshot": [
+        {
+            "title": "Web-capture.net",
+            "description": "گرفتن اسکرین‌شات کامل از صفحات وب با فرمت‌های مختلف.",
+            "favicon": "https:\/\/web-capture.net\/favicon.ico",
+            "url": "https:\/\/web-capture.net\/"
+        },
+        {
+            "title": "Screenshot Guru",
+            "description": "ساده‌ترین ابزار برای گرفتن اسکرین‌شات از صفحات اینترنت.",
+            "favicon": "https:\/\/screenshot.guru\/favicon.ico",
+            "url": "https:\/\/screenshot.guru\/"
+        },
+        {
+            "title": "SiteShot",
+            "description": "ابزار حرفه‌ای برای ذخیره‌ی تصویری سایت‌ها.",
+            "favicon": "https:\/\/www.siteshot.com\/favicon.ico",
+            "url": "https:\/\/www.siteshot.com\/"
+        },
+        {
+            "title": "Sshot",
+            "description": "سرویس رایگان برای گرفتن اسکرین‌شات URL به صورت فوری.",
+            "favicon": "https:\/\/www.sshot.cc\/favicon.ico",
+            "url": "https:\/\/www.sshot.cc\/"
+        },
+        {
+            "title": "Snapito",
+            "description": "ابزار اسکرین‌شات سریع برای صفحات وب با تنظیمات پیشرفته.",
+            "favicon": "https:\/\/snapito.com\/favicon.ico",
+            "url": "https:\/\/snapito.com\/"
+        }
+    ],
+    "image-editor": [
+        {
+            "title": "Photopea",
+            "description": "ویرایشگر حرفه‌ای مشابه فتوشاپ، قابل استفاده در مرورگر.",
+            "favicon": "https:\/\/www.photopea.com\/favicon.ico",
+            "url": "https:\/\/www.photopea.com\/"
+        },
+        {
+            "title": "Pixlr X",
+            "description": "ویرایش تصویر ساده و حرفه‌ای با رابط کاربری جذاب.",
+            "favicon": "https:\/\/pixlr.com\/favicon.ico",
+            "url": "https:\/\/pixlr.com\/x\/"
+        },
+        {
+            "title": "Fotor",
+            "description": "ویرایشگر تصویری آنلاین با ابزارهای کامل طراحی و روتوش.",
+            "favicon": "https:\/\/www.fotor.com\/favicon.ico",
+            "url": "https:\/\/www.fotor.com\/"
+        },
+        {
+            "title": "Canva",
+            "description": "ابزار طراحی و ویرایش تصویر با قالب‌های آماده جذاب.",
+            "favicon": "https:\/\/www.canva.com\/favicon.ico",
+            "url": "https:\/\/www.canva.com\/"
+        },
+        {
+            "title": "Lunapic",
+            "description": "ابزار قدیمی اما کاربردی برای افکت‌گذاری و ویرایش سریع.",
+            "favicon": "https:\/\/www110.lunapic.com\/editor\/favicon.ico",
+            "url": "https:\/\/www110.lunapic.com\/editor\/"
+        }
+    ],
+    "format-converter": [
+        {
+            "title": "CloudConvert",
+            "description": "تبدیل حرفه‌ای انواع فرمت‌های فایل مانند PDF، عکس، ویدیو و... ",
+            "favicon": "https:\/\/cloudconvert.com\/favicon.ico",
+            "url": "https:\/\/cloudconvert.com\/"
+        },
+        {
+            "title": "Convertio",
+            "description": "تبدیل فایل آنلاین با پشتیبانی از ده‌ها فرمت مختلف.",
+            "favicon": "https:\/\/convertio.co\/favicon.ico",
+            "url": "https:\/\/convertio.co\/"
+        },
+        {
+            "title": "Online-Convert",
+            "description": "تبدیل فایل‌های صوتی، تصویری، اسناد و حتی آرشیوها.",
+            "favicon": "https:\/\/www.online-convert.com\/favicon.ico",
+            "url": "https:\/\/www.online-convert.com\/"
+        },
+        {
+            "title": "Zamzar",
+            "description": "تبدیل سریع فایل‌ها بدون نیاز به نصب نرم‌افزار.",
+            "favicon": "https:\/\/www.zamzar.com\/favicon.ico",
+            "url": "https:\/\/www.zamzar.com\/"
+        },
+        {
+            "title": "FreeConvert",
+            "description": "ابزار آسان و سریع برای تبدیل دسته‌جمعی فایل‌ها.",
+            "favicon": "https:\/\/www.freeconvert.com\/favicon.ico",
+            "url": "https:\/\/www.freeconvert.com\/"
+        }
+    ],
+    "calculator": [
+        {
+            "title": "Desmos",
+            "description": "ماشین‌حساب گرافیکی قدرتمند برای معادلات و نمودارها.",
+            "favicon": "https:\/\/www.desmos.com\/favicon.ico",
+            "url": "https:\/\/www.desmos.com\/calculator"
+        },
+        {
+            "title": "Symbolab",
+            "description": "حل گام‌به‌گام معادلات ریاضی و ماشین‌حساب حرفه‌ای.",
+            "favicon": "https:\/\/www.symbolab.com\/favicon.ico",
+            "url": "https:\/\/www.symbolab.com\/"
+        },
+        {
+            "title": "GeoGebra",
+            "description": "ماشین‌حساب تعاملی با امکانات هندسه و آمار.",
+            "favicon": "https:\/\/www.geogebra.org\/favicon.ico",
+            "url": "https:\/\/www.geogebra.org\/calculator"
+        },
+        {
+            "title": "Calculator.net",
+            "description": "ماشین‌حساب عمومی و تخصصی برای مالی، سلامت و ریاضی.",
+            "favicon": "https:\/\/www.calculator.net\/favicon.ico",
+            "url": "https:\/\/www.calculator.net\/"
+        },
+        {
+            "title": "Google Calculator",
+            "description": "ماشین‌حساب گوگل با عملکرد فوری در نتایج جستجو.",
+            "favicon": "https:\/\/ssl.gstatic.com\/classroom\/favicon.png",
+            "url": "https:\/\/www.google.com\/search?q=calculator"
+        }
+    ]
+}
